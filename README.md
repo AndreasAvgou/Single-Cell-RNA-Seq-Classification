@@ -27,18 +27,23 @@ This enables the model to converge extremely fast (achieving >90% validation Acc
 ## 🚀 Running the Project
 
 ### 1. Training the Model
+
 Run the main script to process the data, initialize the model, and train for 20 epochs.
 ```bash
 python main.py
 ```
 **Outputs:** 
+
 - `training_history.csv` (contains epoch logs for Loss, F1, and Accuracy)
 - `submission_alzheimer_2026.csv` (predictions on the unseen test set data)
 
 ### 2. Plotting Performance Metrics
+
 Once `training_history.csv` is generated, run the plotting script to visualize the model's training dynamics.
 ```bash
 python plot_metrics.py
 ```
 **Output:**
-- `training_metrics.png` (Training Loss, Validation F1 Score, and Validation Accuracy curves)
+
+<img width="1500" height="500" alt="training_metrics" src="https://github.com/user-attachments/assets/3ecbcc1b-d965-40f4-8dd6-8b6da48f0eac" />
+
