@@ -1,7 +1,7 @@
 # AlzheimerCellNet: Single-Cell RNA-Seq Classification
 
 This project implements **AlzheimerCellNet**, a specialized neural network architecture designed to classify brain cell lineages (such as Astrocytes, Neurons, Microglia, etc.) from high-dimensional single-cell RNA-sequencing (scRNA-seq) data.
-## 🧬 Architecture Overview
+## Architecture Overview
 
 The core architecture (defined in `model_arch.py`) is a **Joint Autoencoder & Classifier**. It operates on ~16,678-dimensional gene expression profiles.
 
@@ -9,7 +9,7 @@ The core architecture (defined in `model_arch.py`) is a **Joint Autoencoder & Cl
 2. **Decoder**: A Denoising component that attempts to reconstruct the original 16,678 gene features from the latent space, forcing the network to capture global transcriptional variance rather than just memorizing class labels.
 3. **Classifier**: Computes the final cell-type prediction (logits) from the 128-dimensional latent vector via a 64-neuron layer incorporating Dropout for regularization.
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 Data is handled via `data_utils.py`:
 - Drops irrelevant identifier columns and separates the `tag` label.
