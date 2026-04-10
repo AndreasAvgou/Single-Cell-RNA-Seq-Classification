@@ -16,7 +16,7 @@ Data is handled via `data_utils.py`:
 - Splits data (85% Train, 15% Validation) without data leakage.
 - Normalizes all ~16,678 features using `StandardScaler` to ensure robust gradient descent.
 
-## 🧠 Training Strategy
+## Training Strategy
 
 The model is trained (`engine.py`) using a **Joint Loss Optimization**. 
 During backpropagation, the loss function minimizes both the classification error and a fraction of the autoencoder reconstruction error:
@@ -24,7 +24,7 @@ During backpropagation, the loss function minimizes both the classification erro
 
 This enables the model to converge extremely fast (achieving >90% validation Accuracy and F1 score mathematically by the end of Epoch 1) because the underlying biological lineages are highly separable in the compressed generative space. By the end of training, it typically sustains ~99% Accuracy and ~0.98 Macro F1 score on the validation set.
 
-## 🚀 Running the Project
+## Running the Project
 
 ### 1. Training the Model
 
