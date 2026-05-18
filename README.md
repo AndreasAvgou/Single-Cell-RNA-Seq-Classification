@@ -30,7 +30,7 @@ This enables the model to converge extremely fast (achieving >90% validation Acc
 
 Run the main script to process the data, initialize the model, and train for 20 epochs.
 ```bash
-python main.py
+python3 main.py
 ```
 **Outputs:** 
 
@@ -41,7 +41,7 @@ python main.py
 
 Once `training_history.csv` is generated, run the plotting script to visualize the model's training dynamics.
 ```bash
-python plot_metrics.py
+python3 plot_metrics.py
 ```
 **Output:**
 
