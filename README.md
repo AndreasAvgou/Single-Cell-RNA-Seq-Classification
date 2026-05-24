@@ -1,4 +1,11 @@
-# Single Cell RNA Seq Classification
+<div align="center">
+  
+<img width="259" height="194" alt="images" src="https://github.com/user-attachments/assets/8d2a48d2-9466-441f-8b62-9395b7dc73ee" />
+
+
+ # Single Cell RNA Seq Classification
+  
+</div>
 
 This project implements a specialized neural network architecture designed to classify brain cell lineages (such as Astrocytes, Neurons, Microglia, etc.) from high-dimensional single-cell RNA-sequencing (scRNA-seq) data.
 ## Architecture Overview
