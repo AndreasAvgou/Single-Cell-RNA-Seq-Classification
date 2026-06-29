@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="659" height="494" alt="images" src="https://github.com/user-attachments/assets/8d2a48d2-9466-441f-8b62-9395b7dc73ee" />
+<img width="1440" height="1000" alt="image" src="https://github.com/user-attachments/assets/eee00d8f-1d8b-446e-ab82-9a9a6949d4ef" />
 
 
  # Single Cell RNA Seq Classification
