@@ -1,0 +1,5001 @@
+cell_id,predicted_label
+0,Inhibitory neuron
+1,Inhibitory neuron
+2,Oligodendrocyte
+3,Oligodendrocyte
+4,Oligodendrocyte precursor cell
+5,Excitatory neuron
+6,Oligodendrocyte
+7,Excitatory neuron
+8,Astrocyte
+9,Astrocyte
+10,Oligodendrocyte
+11,Excitatory neuron
+12,Oligodendrocyte
+13,Excitatory neuron
+14,Inhibitory neuron
+15,Microglial cell
+16,Oligodendrocyte
+17,Endothelial cell
+18,Oligodendrocyte precursor cell
+19,Oligodendrocyte
+20,Oligodendrocyte
+21,Inhibitory neuron
+22,Inhibitory neuron
+23,Oligodendrocyte
+24,Excitatory neuron
+25,Oligodendrocyte
+26,Microglial cell
+27,Excitatory neuron
+28,Inhibitory neuron
+29,Oligodendrocyte
+30,Oligodendrocyte
+31,Excitatory neuron
+32,Astrocyte
+33,Oligodendrocyte
+34,Excitatory neuron
+35,Oligodendrocyte
+36,Excitatory neuron
+37,Excitatory neuron
+38,Astrocyte
+39,Oligodendrocyte
+40,Oligodendrocyte
+41,Oligodendrocyte
+42,Oligodendrocyte
+43,Oligodendrocyte precursor cell
+44,Oligodendrocyte precursor cell
+45,Astrocyte
+46,Oligodendrocyte
+47,Oligodendrocyte
+48,Excitatory neuron
+49,Oligodendrocyte precursor cell
+50,Oligodendrocyte precursor cell
+51,Oligodendrocyte
+52,Oligodendrocyte
+53,Microglial cell
+54,Excitatory neuron
+55,Oligodendrocyte
+56,Astrocyte
+57,Oligodendrocyte
+58,Oligodendrocyte precursor cell
+59,Endothelial cell
+60,Excitatory neuron
+61,Astrocyte
+62,Microglial cell
+63,Oligodendrocyte
+64,Oligodendrocyte
+65,Inhibitory neuron
+66,Oligodendrocyte
+67,Oligodendrocyte
+68,Oligodendrocyte
+69,Astrocyte
+70,Inhibitory neuron
+71,Excitatory neuron
+72,Oligodendrocyte
+73,Oligodendrocyte
+74,Inhibitory neuron
+75,Excitatory neuron
+76,Astrocyte
+77,Oligodendrocyte
+78,Excitatory neuron
+79,Astrocyte
+80,Excitatory neuron
+81,Excitatory neuron
+82,Inhibitory neuron
+83,Oligodendrocyte
+84,Excitatory neuron
+85,Oligodendrocyte
+86,Excitatory neuron
+87,Inhibitory neuron
+88,Oligodendrocyte precursor cell
+89,Excitatory neuron
+90,Excitatory neuron
+91,Excitatory neuron
+92,Excitatory neuron
+93,Excitatory neuron
+94,Oligodendrocyte
+95,Excitatory neuron
+96,Oligodendrocyte
+97,Inhibitory neuron
+98,Oligodendrocyte
+99,Oligodendrocyte
+100,Oligodendrocyte precursor cell
+101,Excitatory neuron
+102,Astrocyte
+103,Astrocyte
+104,Astrocyte
+105,Oligodendrocyte
+106,Oligodendrocyte
+107,Endothelial cell
+108,Oligodendrocyte
+109,Excitatory neuron
+110,Excitatory neuron
+111,Oligodendrocyte
+112,Excitatory neuron
+113,Oligodendrocyte
+114,Oligodendrocyte
+115,Oligodendrocyte
+116,Excitatory neuron
+117,Microglial cell
+118,Inhibitory neuron
+119,Excitatory neuron
+120,Oligodendrocyte
+121,Oligodendrocyte precursor cell
+122,Oligodendrocyte
+123,Oligodendrocyte precursor cell
+124,Excitatory neuron
+125,Excitatory neuron
+126,Excitatory neuron
+127,Excitatory neuron
+128,Excitatory neuron
+129,Astrocyte
+130,Microglial cell
+131,Microglial cell
+132,Oligodendrocyte precursor cell
+133,Excitatory neuron
+134,Excitatory neuron
+135,Excitatory neuron
+136,Astrocyte
+137,Astrocyte
+138,Oligodendrocyte
+139,Endothelial cell
+140,Astrocyte
+141,Excitatory neuron
+142,Oligodendrocyte
+143,Excitatory neuron
+144,Oligodendrocyte precursor cell
+145,Astrocyte
+146,Astrocyte
+147,Inhibitory neuron
+148,Inhibitory neuron
+149,Oligodendrocyte
+150,Excitatory neuron
+151,Microglial cell
+152,Excitatory neuron
+153,Excitatory neuron
+154,Excitatory neuron
+155,Inhibitory neuron
+156,Excitatory neuron
+157,Inhibitory neuron
+158,Astrocyte
+159,Excitatory neuron
+160,Oligodendrocyte
+161,Inhibitory neuron
+162,Oligodendrocyte
+163,Oligodendrocyte
+164,Excitatory neuron
+165,Astrocyte
+166,Astrocyte
+167,Excitatory neuron
+168,Oligodendrocyte
+169,Excitatory neuron
+170,Excitatory neuron
+171,Oligodendrocyte
+172,Microglial cell
+173,Inhibitory neuron
+174,Astrocyte
+175,Oligodendrocyte
+176,Inhibitory neuron
+177,Excitatory neuron
+178,Astrocyte
+179,Oligodendrocyte
+180,Excitatory neuron
+181,Inhibitory neuron
+182,Excitatory neuron
+183,Excitatory neuron
+184,Excitatory neuron
+185,Excitatory neuron
+186,Astrocyte
+187,Microglial cell
+188,Microglial cell
+189,Excitatory neuron
+190,Excitatory neuron
+191,Inhibitory neuron
+192,Oligodendrocyte
+193,Excitatory neuron
+194,Astrocyte
+195,Excitatory neuron
+196,Microglial cell
+197,Inhibitory neuron
+198,Oligodendrocyte
+199,Inhibitory neuron
+200,Oligodendrocyte precursor cell
+201,Inhibitory neuron
+202,Astrocyte
+203,Oligodendrocyte
+204,Astrocyte
+205,Excitatory neuron
+206,Excitatory neuron
+207,Oligodendrocyte
+208,Oligodendrocyte
+209,Excitatory neuron
+210,Excitatory neuron
+211,Excitatory neuron
+212,Excitatory neuron
+213,Excitatory neuron
+214,Excitatory neuron
+215,Oligodendrocyte precursor cell
+216,Oligodendrocyte precursor cell
+217,Astrocyte
+218,Astrocyte
+219,Excitatory neuron
+220,Oligodendrocyte
+221,Oligodendrocyte
+222,Oligodendrocyte
+223,Excitatory neuron
+224,Oligodendrocyte
+225,Inhibitory neuron
+226,Oligodendrocyte precursor cell
+227,Excitatory neuron
+228,Astrocyte
+229,Microglial cell
+230,Excitatory neuron
+231,Inhibitory neuron
+232,Oligodendrocyte
+233,Inhibitory neuron
+234,Excitatory neuron
+235,Excitatory neuron
+236,Oligodendrocyte
+237,Excitatory neuron
+238,Oligodendrocyte
+239,Inhibitory neuron
+240,Inhibitory neuron
+241,Oligodendrocyte precursor cell
+242,Microglial cell
+243,Excitatory neuron
+244,Oligodendrocyte
+245,Excitatory neuron
+246,Astrocyte
+247,Excitatory neuron
+248,Inhibitory neuron
+249,Inhibitory neuron
+250,Oligodendrocyte precursor cell
+251,Oligodendrocyte precursor cell
+252,Astrocyte
+253,Oligodendrocyte precursor cell
+254,Excitatory neuron
+255,Oligodendrocyte
+256,Oligodendrocyte
+257,Oligodendrocyte precursor cell
+258,Inhibitory neuron
+259,Endothelial cell
+260,Excitatory neuron
+261,Oligodendrocyte
+262,Oligodendrocyte precursor cell
+263,Oligodendrocyte
+264,Excitatory neuron
+265,Oligodendrocyte
+266,Excitatory neuron
+267,Oligodendrocyte
+268,Oligodendrocyte
+269,Oligodendrocyte
+270,Excitatory neuron
+271,Excitatory neuron
+272,Excitatory neuron
+273,Excitatory neuron
+274,Astrocyte
+275,Inhibitory neuron
+276,Excitatory neuron
+277,Oligodendrocyte
+278,Astrocyte
+279,Oligodendrocyte precursor cell
+280,Inhibitory neuron
+281,Excitatory neuron
+282,Excitatory neuron
+283,Oligodendrocyte
+284,Inhibitory neuron
+285,Excitatory neuron
+286,Excitatory neuron
+287,Astrocyte
+288,Astrocyte
+289,Inhibitory neuron
+290,Endothelial cell
+291,Astrocyte
+292,Astrocyte
+293,Astrocyte
+294,Excitatory neuron
+295,Oligodendrocyte
+296,Oligodendrocyte
+297,Inhibitory neuron
+298,Excitatory neuron
+299,Oligodendrocyte
+300,Oligodendrocyte
+301,Oligodendrocyte precursor cell
+302,Astrocyte
+303,Oligodendrocyte
+304,Astrocyte
+305,Inhibitory neuron
+306,Astrocyte
+307,Excitatory neuron
+308,Excitatory neuron
+309,Inhibitory neuron
+310,Excitatory neuron
+311,Oligodendrocyte precursor cell
+312,Excitatory neuron
+313,Inhibitory neuron
+314,Oligodendrocyte precursor cell
+315,Oligodendrocyte
+316,Oligodendrocyte
+317,Astrocyte
+318,Inhibitory neuron
+319,Astrocyte
+320,Excitatory neuron
+321,Excitatory neuron
+322,Oligodendrocyte
+323,Excitatory neuron
+324,Oligodendrocyte
+325,Oligodendrocyte
+326,Astrocyte
+327,Astrocyte
+328,Astrocyte
+329,Oligodendrocyte
+330,Oligodendrocyte
+331,Inhibitory neuron
+332,Astrocyte
+333,Oligodendrocyte
+334,Excitatory neuron
+335,Oligodendrocyte
+336,Astrocyte
+337,Inhibitory neuron
+338,Oligodendrocyte
+339,Inhibitory neuron
+340,Oligodendrocyte
+341,Oligodendrocyte
+342,Astrocyte
+343,Oligodendrocyte precursor cell
+344,Inhibitory neuron
+345,Inhibitory neuron
+346,Oligodendrocyte
+347,Excitatory neuron
+348,Inhibitory neuron
+349,Oligodendrocyte
+350,Oligodendrocyte
+351,Astrocyte
+352,Excitatory neuron
+353,Astrocyte
+354,Oligodendrocyte precursor cell
+355,Excitatory neuron
+356,Astrocyte
+357,Oligodendrocyte
+358,Astrocyte
+359,Oligodendrocyte
+360,Oligodendrocyte
+361,Excitatory neuron
+362,Excitatory neuron
+363,Inhibitory neuron
+364,Excitatory neuron
+365,Excitatory neuron
+366,Excitatory neuron
+367,Oligodendrocyte
+368,Oligodendrocyte precursor cell
+369,Oligodendrocyte precursor cell
+370,Oligodendrocyte
+371,Excitatory neuron
+372,Oligodendrocyte
+373,Astrocyte
+374,Oligodendrocyte precursor cell
+375,Astrocyte
+376,Excitatory neuron
+377,Excitatory neuron
+378,Oligodendrocyte
+379,Astrocyte
+380,Excitatory neuron
+381,Excitatory neuron
+382,Excitatory neuron
+383,Excitatory neuron
+384,Excitatory neuron
+385,Microglial cell
+386,Excitatory neuron
+387,Excitatory neuron
+388,Endothelial cell
+389,Astrocyte
+390,Excitatory neuron
+391,Inhibitory neuron
+392,Excitatory neuron
+393,Excitatory neuron
+394,Astrocyte
+395,Excitatory neuron
+396,Excitatory neuron
+397,Oligodendrocyte precursor cell
+398,Astrocyte
+399,Excitatory neuron
+400,Oligodendrocyte precursor cell
+401,Excitatory neuron
+402,Oligodendrocyte precursor cell
+403,Microglial cell
+404,Oligodendrocyte
+405,Excitatory neuron
+406,Excitatory neuron
+407,Inhibitory neuron
+408,Excitatory neuron
+409,Excitatory neuron
+410,Oligodendrocyte
+411,Oligodendrocyte
+412,Excitatory neuron
+413,Oligodendrocyte precursor cell
+414,Microglial cell
+415,Oligodendrocyte
+416,Oligodendrocyte
+417,Excitatory neuron
+418,Oligodendrocyte precursor cell
+419,Oligodendrocyte
+420,Excitatory neuron
+421,Inhibitory neuron
+422,Inhibitory neuron
+423,Oligodendrocyte
+424,Oligodendrocyte
+425,Excitatory neuron
+426,Astrocyte
+427,Inhibitory neuron
+428,Oligodendrocyte
+429,Inhibitory neuron
+430,Oligodendrocyte
+431,Excitatory neuron
+432,Inhibitory neuron
+433,Microglial cell
+434,Oligodendrocyte
+435,Excitatory neuron
+436,Oligodendrocyte
+437,Excitatory neuron
+438,Excitatory neuron
+439,Inhibitory neuron
+440,Excitatory neuron
+441,Oligodendrocyte
+442,Oligodendrocyte
+443,Astrocyte
+444,Oligodendrocyte
+445,Inhibitory neuron
+446,Oligodendrocyte
+447,Astrocyte
+448,Oligodendrocyte precursor cell
+449,Microglial cell
+450,Astrocyte
+451,Oligodendrocyte
+452,Oligodendrocyte
+453,Oligodendrocyte
+454,Endothelial cell
+455,Excitatory neuron
+456,Inhibitory neuron
+457,Excitatory neuron
+458,Excitatory neuron
+459,Microglial cell
+460,Excitatory neuron
+461,Excitatory neuron
+462,Excitatory neuron
+463,Oligodendrocyte
+464,Astrocyte
+465,Excitatory neuron
+466,Inhibitory neuron
+467,Excitatory neuron
+468,Microglial cell
+469,Excitatory neuron
+470,Inhibitory neuron
+471,Excitatory neuron
+472,Endothelial cell
+473,Excitatory neuron
+474,Excitatory neuron
+475,Excitatory neuron
+476,Excitatory neuron
+477,Oligodendrocyte
+478,Excitatory neuron
+479,Excitatory neuron
+480,Oligodendrocyte precursor cell
+481,Excitatory neuron
+482,Oligodendrocyte
+483,Excitatory neuron
+484,Inhibitory neuron
+485,Excitatory neuron
+486,Astrocyte
+487,Oligodendrocyte precursor cell
+488,Excitatory neuron
+489,Excitatory neuron
+490,Oligodendrocyte
+491,Excitatory neuron
+492,Excitatory neuron
+493,Astrocyte
+494,Excitatory neuron
+495,Oligodendrocyte
+496,Excitatory neuron
+497,Astrocyte
+498,Microglial cell
+499,Astrocyte
+500,Excitatory neuron
+501,Microglial cell
+502,Oligodendrocyte
+503,Excitatory neuron
+504,Oligodendrocyte
+505,Microglial cell
+506,Inhibitory neuron
+507,Oligodendrocyte
+508,Oligodendrocyte precursor cell
+509,Excitatory neuron
+510,Excitatory neuron
+511,Inhibitory neuron
+512,Microglial cell
+513,Excitatory neuron
+514,Microglial cell
+515,Oligodendrocyte precursor cell
+516,Oligodendrocyte
+517,Inhibitory neuron
+518,Oligodendrocyte precursor cell
+519,Oligodendrocyte
+520,Oligodendrocyte
+521,Oligodendrocyte
+522,Astrocyte
+523,Oligodendrocyte precursor cell
+524,Oligodendrocyte precursor cell
+525,Inhibitory neuron
+526,Excitatory neuron
+527,Oligodendrocyte
+528,Oligodendrocyte
+529,Inhibitory neuron
+530,Oligodendrocyte
+531,Oligodendrocyte
+532,Oligodendrocyte
+533,Oligodendrocyte
+534,Oligodendrocyte
+535,Inhibitory neuron
+536,Excitatory neuron
+537,Excitatory neuron
+538,Oligodendrocyte
+539,Excitatory neuron
+540,Inhibitory neuron
+541,Excitatory neuron
+542,Excitatory neuron
+543,Excitatory neuron
+544,Excitatory neuron
+545,Oligodendrocyte precursor cell
+546,Inhibitory neuron
+547,Inhibitory neuron
+548,Excitatory neuron
+549,Microglial cell
+550,Inhibitory neuron
+551,Excitatory neuron
+552,Inhibitory neuron
+553,Oligodendrocyte
+554,Excitatory neuron
+555,Excitatory neuron
+556,Astrocyte
+557,Oligodendrocyte precursor cell
+558,Inhibitory neuron
+559,Excitatory neuron
+560,Inhibitory neuron
+561,Astrocyte
+562,Astrocyte
+563,Excitatory neuron
+564,Excitatory neuron
+565,Astrocyte
+566,Excitatory neuron
+567,Oligodendrocyte
+568,Excitatory neuron
+569,Oligodendrocyte
+570,Astrocyte
+571,Inhibitory neuron
+572,Excitatory neuron
+573,Excitatory neuron
+574,Excitatory neuron
+575,Excitatory neuron
+576,Excitatory neuron
+577,Excitatory neuron
+578,Inhibitory neuron
+579,Oligodendrocyte precursor cell
+580,Oligodendrocyte
+581,Excitatory neuron
+582,Oligodendrocyte precursor cell
+583,Inhibitory neuron
+584,Endothelial cell
+585,Excitatory neuron
+586,Excitatory neuron
+587,Oligodendrocyte
+588,Excitatory neuron
+589,Oligodendrocyte
+590,Oligodendrocyte
+591,Oligodendrocyte precursor cell
+592,Excitatory neuron
+593,Inhibitory neuron
+594,Excitatory neuron
+595,Oligodendrocyte
+596,Astrocyte
+597,Oligodendrocyte
+598,Excitatory neuron
+599,Oligodendrocyte
+600,Inhibitory neuron
+601,Oligodendrocyte
+602,Inhibitory neuron
+603,Excitatory neuron
+604,Astrocyte
+605,Inhibitory neuron
+606,Oligodendrocyte
+607,Excitatory neuron
+608,Oligodendrocyte
+609,Excitatory neuron
+610,Oligodendrocyte
+611,Oligodendrocyte
+612,Excitatory neuron
+613,Oligodendrocyte precursor cell
+614,Oligodendrocyte precursor cell
+615,Oligodendrocyte
+616,Oligodendrocyte
+617,Excitatory neuron
+618,Endothelial cell
+619,Oligodendrocyte
+620,Oligodendrocyte
+621,Oligodendrocyte
+622,Endothelial cell
+623,Microglial cell
+624,Oligodendrocyte
+625,Oligodendrocyte precursor cell
+626,Astrocyte
+627,Oligodendrocyte
+628,Inhibitory neuron
+629,Excitatory neuron
+630,Microglial cell
+631,Inhibitory neuron
+632,Endothelial cell
+633,Astrocyte
+634,Oligodendrocyte precursor cell
+635,Microglial cell
+636,Oligodendrocyte
+637,Oligodendrocyte precursor cell
+638,Excitatory neuron
+639,Microglial cell
+640,Inhibitory neuron
+641,Oligodendrocyte
+642,Oligodendrocyte
+643,Oligodendrocyte
+644,Excitatory neuron
+645,Excitatory neuron
+646,Oligodendrocyte
+647,Excitatory neuron
+648,Excitatory neuron
+649,Astrocyte
+650,Microglial cell
+651,Inhibitory neuron
+652,Oligodendrocyte
+653,Inhibitory neuron
+654,Excitatory neuron
+655,Excitatory neuron
+656,Astrocyte
+657,Astrocyte
+658,Oligodendrocyte
+659,Inhibitory neuron
+660,Oligodendrocyte precursor cell
+661,Excitatory neuron
+662,Oligodendrocyte
+663,Excitatory neuron
+664,Excitatory neuron
+665,Excitatory neuron
+666,Oligodendrocyte
+667,Oligodendrocyte
+668,Oligodendrocyte
+669,Oligodendrocyte
+670,Inhibitory neuron
+671,Oligodendrocyte
+672,Oligodendrocyte
+673,Oligodendrocyte precursor cell
+674,Excitatory neuron
+675,Excitatory neuron
+676,Oligodendrocyte precursor cell
+677,Microglial cell
+678,Astrocyte
+679,Astrocyte
+680,Astrocyte
+681,Oligodendrocyte
+682,Oligodendrocyte
+683,Oligodendrocyte
+684,Excitatory neuron
+685,Microglial cell
+686,Excitatory neuron
+687,Oligodendrocyte
+688,Excitatory neuron
+689,Oligodendrocyte
+690,Oligodendrocyte
+691,Oligodendrocyte
+692,Oligodendrocyte
+693,Excitatory neuron
+694,Oligodendrocyte
+695,Excitatory neuron
+696,Excitatory neuron
+697,Excitatory neuron
+698,Inhibitory neuron
+699,Excitatory neuron
+700,Oligodendrocyte
+701,Inhibitory neuron
+702,Inhibitory neuron
+703,Microglial cell
+704,Astrocyte
+705,Oligodendrocyte precursor cell
+706,Oligodendrocyte
+707,Oligodendrocyte precursor cell
+708,Microglial cell
+709,Astrocyte
+710,Oligodendrocyte
+711,Inhibitory neuron
+712,Excitatory neuron
+713,Inhibitory neuron
+714,Microglial cell
+715,Inhibitory neuron
+716,Excitatory neuron
+717,Excitatory neuron
+718,Inhibitory neuron
+719,Excitatory neuron
+720,Oligodendrocyte
+721,Astrocyte
+722,Astrocyte
+723,Astrocyte
+724,Oligodendrocyte
+725,Inhibitory neuron
+726,Excitatory neuron
+727,Oligodendrocyte
+728,Excitatory neuron
+729,Excitatory neuron
+730,Oligodendrocyte precursor cell
+731,Microglial cell
+732,Astrocyte
+733,Inhibitory neuron
+734,Microglial cell
+735,Excitatory neuron
+736,Excitatory neuron
+737,Excitatory neuron
+738,Excitatory neuron
+739,Oligodendrocyte
+740,Astrocyte
+741,Inhibitory neuron
+742,Astrocyte
+743,Inhibitory neuron
+744,Oligodendrocyte precursor cell
+745,Excitatory neuron
+746,Excitatory neuron
+747,Excitatory neuron
+748,Inhibitory neuron
+749,Oligodendrocyte
+750,Oligodendrocyte
+751,Inhibitory neuron
+752,Excitatory neuron
+753,Oligodendrocyte
+754,Oligodendrocyte
+755,Astrocyte
+756,Oligodendrocyte
+757,Oligodendrocyte
+758,Excitatory neuron
+759,Excitatory neuron
+760,Excitatory neuron
+761,Astrocyte
+762,Excitatory neuron
+763,Oligodendrocyte
+764,Oligodendrocyte
+765,Oligodendrocyte precursor cell
+766,Oligodendrocyte
+767,Excitatory neuron
+768,Oligodendrocyte
+769,Oligodendrocyte
+770,Oligodendrocyte
+771,Oligodendrocyte
+772,Microglial cell
+773,Oligodendrocyte precursor cell
+774,Excitatory neuron
+775,Inhibitory neuron
+776,Excitatory neuron
+777,Inhibitory neuron
+778,Microglial cell
+779,Oligodendrocyte
+780,Excitatory neuron
+781,Inhibitory neuron
+782,Inhibitory neuron
+783,Microglial cell
+784,Excitatory neuron
+785,Astrocyte
+786,Astrocyte
+787,Oligodendrocyte
+788,Oligodendrocyte precursor cell
+789,Excitatory neuron
+790,Excitatory neuron
+791,Oligodendrocyte
+792,Excitatory neuron
+793,Excitatory neuron
+794,Excitatory neuron
+795,Inhibitory neuron
+796,Oligodendrocyte
+797,Oligodendrocyte precursor cell
+798,Microglial cell
+799,Oligodendrocyte precursor cell
+800,Inhibitory neuron
+801,Oligodendrocyte
+802,Oligodendrocyte precursor cell
+803,Astrocyte
+804,Oligodendrocyte
+805,Excitatory neuron
+806,Oligodendrocyte
+807,Inhibitory neuron
+808,Excitatory neuron
+809,Oligodendrocyte
+810,Oligodendrocyte precursor cell
+811,Excitatory neuron
+812,Inhibitory neuron
+813,Oligodendrocyte
+814,Astrocyte
+815,Astrocyte
+816,Astrocyte
+817,Oligodendrocyte
+818,Excitatory neuron
+819,Endothelial cell
+820,Excitatory neuron
+821,Excitatory neuron
+822,Excitatory neuron
+823,Oligodendrocyte
+824,Inhibitory neuron
+825,Astrocyte
+826,Inhibitory neuron
+827,Excitatory neuron
+828,Excitatory neuron
+829,Astrocyte
+830,Oligodendrocyte
+831,Microglial cell
+832,Oligodendrocyte
+833,Oligodendrocyte
+834,Excitatory neuron
+835,Astrocyte
+836,Excitatory neuron
+837,Inhibitory neuron
+838,Oligodendrocyte
+839,Excitatory neuron
+840,Inhibitory neuron
+841,Oligodendrocyte
+842,Astrocyte
+843,Oligodendrocyte
+844,Excitatory neuron
+845,Oligodendrocyte
+846,Excitatory neuron
+847,Excitatory neuron
+848,Microglial cell
+849,Astrocyte
+850,Excitatory neuron
+851,Inhibitory neuron
+852,Inhibitory neuron
+853,Oligodendrocyte
+854,Oligodendrocyte
+855,Excitatory neuron
+856,Astrocyte
+857,Inhibitory neuron
+858,Excitatory neuron
+859,Excitatory neuron
+860,Oligodendrocyte
+861,Oligodendrocyte precursor cell
+862,Oligodendrocyte
+863,Excitatory neuron
+864,Oligodendrocyte
+865,Excitatory neuron
+866,Inhibitory neuron
+867,Excitatory neuron
+868,Inhibitory neuron
+869,Oligodendrocyte precursor cell
+870,Oligodendrocyte
+871,Astrocyte
+872,Excitatory neuron
+873,Inhibitory neuron
+874,Oligodendrocyte
+875,Astrocyte
+876,Oligodendrocyte
+877,Excitatory neuron
+878,Excitatory neuron
+879,Excitatory neuron
+880,Inhibitory neuron
+881,Excitatory neuron
+882,Oligodendrocyte
+883,Oligodendrocyte
+884,Microglial cell
+885,Excitatory neuron
+886,Excitatory neuron
+887,Excitatory neuron
+888,Excitatory neuron
+889,Oligodendrocyte
+890,Astrocyte
+891,Astrocyte
+892,Astrocyte
+893,Oligodendrocyte precursor cell
+894,Excitatory neuron
+895,Inhibitory neuron
+896,Astrocyte
+897,Excitatory neuron
+898,Oligodendrocyte
+899,Excitatory neuron
+900,Oligodendrocyte
+901,Inhibitory neuron
+902,Oligodendrocyte
+903,Excitatory neuron
+904,Oligodendrocyte precursor cell
+905,Excitatory neuron
+906,Astrocyte
+907,Oligodendrocyte
+908,Excitatory neuron
+909,Excitatory neuron
+910,Inhibitory neuron
+911,Microglial cell
+912,Oligodendrocyte
+913,Excitatory neuron
+914,Excitatory neuron
+915,Excitatory neuron
+916,Astrocyte
+917,Inhibitory neuron
+918,Excitatory neuron
+919,Astrocyte
+920,Inhibitory neuron
+921,Microglial cell
+922,Inhibitory neuron
+923,Microglial cell
+924,Oligodendrocyte
+925,Oligodendrocyte
+926,Excitatory neuron
+927,Excitatory neuron
+928,Astrocyte
+929,Excitatory neuron
+930,Astrocyte
+931,Excitatory neuron
+932,Astrocyte
+933,Oligodendrocyte
+934,Excitatory neuron
+935,Inhibitory neuron
+936,Inhibitory neuron
+937,Oligodendrocyte precursor cell
+938,Oligodendrocyte
+939,Inhibitory neuron
+940,Excitatory neuron
+941,Inhibitory neuron
+942,Oligodendrocyte
+943,Excitatory neuron
+944,Inhibitory neuron
+945,Inhibitory neuron
+946,Inhibitory neuron
+947,Inhibitory neuron
+948,Oligodendrocyte
+949,Inhibitory neuron
+950,Endothelial cell
+951,Inhibitory neuron
+952,Inhibitory neuron
+953,Excitatory neuron
+954,Oligodendrocyte
+955,Excitatory neuron
+956,Oligodendrocyte
+957,Excitatory neuron
+958,Excitatory neuron
+959,Inhibitory neuron
+960,Oligodendrocyte
+961,Excitatory neuron
+962,Excitatory neuron
+963,Excitatory neuron
+964,Astrocyte
+965,Astrocyte
+966,Inhibitory neuron
+967,Astrocyte
+968,Inhibitory neuron
+969,Endothelial cell
+970,Microglial cell
+971,Excitatory neuron
+972,Inhibitory neuron
+973,Oligodendrocyte
+974,Oligodendrocyte precursor cell
+975,Astrocyte
+976,Astrocyte
+977,Oligodendrocyte
+978,Inhibitory neuron
+979,Excitatory neuron
+980,Oligodendrocyte precursor cell
+981,Inhibitory neuron
+982,Excitatory neuron
+983,Astrocyte
+984,Microglial cell
+985,Oligodendrocyte
+986,Oligodendrocyte
+987,Excitatory neuron
+988,Oligodendrocyte
+989,Excitatory neuron
+990,Oligodendrocyte
+991,Excitatory neuron
+992,Excitatory neuron
+993,Oligodendrocyte
+994,Excitatory neuron
+995,Oligodendrocyte precursor cell
+996,Excitatory neuron
+997,Excitatory neuron
+998,Oligodendrocyte
+999,Astrocyte
+1000,Excitatory neuron
+1001,Oligodendrocyte
+1002,Excitatory neuron
+1003,Oligodendrocyte
+1004,Excitatory neuron
+1005,Inhibitory neuron
+1006,Astrocyte
+1007,Excitatory neuron
+1008,Oligodendrocyte
+1009,Inhibitory neuron
+1010,Oligodendrocyte
+1011,Oligodendrocyte
+1012,Inhibitory neuron
+1013,Inhibitory neuron
+1014,Excitatory neuron
+1015,Inhibitory neuron
+1016,Oligodendrocyte
+1017,Oligodendrocyte
+1018,Excitatory neuron
+1019,Astrocyte
+1020,Excitatory neuron
+1021,Oligodendrocyte precursor cell
+1022,Oligodendrocyte
+1023,Oligodendrocyte
+1024,Excitatory neuron
+1025,Oligodendrocyte
+1026,Astrocyte
+1027,Microglial cell
+1028,Excitatory neuron
+1029,Oligodendrocyte
+1030,Oligodendrocyte
+1031,Excitatory neuron
+1032,Endothelial cell
+1033,Excitatory neuron
+1034,Oligodendrocyte
+1035,Excitatory neuron
+1036,Excitatory neuron
+1037,Microglial cell
+1038,Excitatory neuron
+1039,Oligodendrocyte
+1040,Excitatory neuron
+1041,Oligodendrocyte
+1042,Excitatory neuron
+1043,Oligodendrocyte
+1044,Oligodendrocyte
+1045,Oligodendrocyte
+1046,Endothelial cell
+1047,Excitatory neuron
+1048,Oligodendrocyte precursor cell
+1049,Oligodendrocyte
+1050,Astrocyte
+1051,Inhibitory neuron
+1052,Oligodendrocyte
+1053,Excitatory neuron
+1054,Excitatory neuron
+1055,Excitatory neuron
+1056,Excitatory neuron
+1057,Astrocyte
+1058,Oligodendrocyte
+1059,Excitatory neuron
+1060,Oligodendrocyte
+1061,Oligodendrocyte
+1062,Excitatory neuron
+1063,Astrocyte
+1064,Inhibitory neuron
+1065,Inhibitory neuron
+1066,Inhibitory neuron
+1067,Astrocyte
+1068,Astrocyte
+1069,Oligodendrocyte precursor cell
+1070,Oligodendrocyte
+1071,Oligodendrocyte
+1072,Oligodendrocyte precursor cell
+1073,Oligodendrocyte
+1074,Microglial cell
+1075,Oligodendrocyte
+1076,Inhibitory neuron
+1077,Astrocyte
+1078,Inhibitory neuron
+1079,Inhibitory neuron
+1080,Excitatory neuron
+1081,Excitatory neuron
+1082,Inhibitory neuron
+1083,Excitatory neuron
+1084,Inhibitory neuron
+1085,Oligodendrocyte
+1086,Inhibitory neuron
+1087,Oligodendrocyte precursor cell
+1088,Astrocyte
+1089,Excitatory neuron
+1090,Oligodendrocyte
+1091,Inhibitory neuron
+1092,Excitatory neuron
+1093,Oligodendrocyte precursor cell
+1094,Oligodendrocyte
+1095,Excitatory neuron
+1096,Inhibitory neuron
+1097,Inhibitory neuron
+1098,Oligodendrocyte precursor cell
+1099,Microglial cell
+1100,Astrocyte
+1101,Excitatory neuron
+1102,Inhibitory neuron
+1103,Oligodendrocyte
+1104,Oligodendrocyte
+1105,Excitatory neuron
+1106,Excitatory neuron
+1107,Oligodendrocyte
+1108,Inhibitory neuron
+1109,Excitatory neuron
+1110,Astrocyte
+1111,Oligodendrocyte
+1112,Oligodendrocyte
+1113,Excitatory neuron
+1114,Excitatory neuron
+1115,Oligodendrocyte
+1116,Oligodendrocyte
+1117,Inhibitory neuron
+1118,Inhibitory neuron
+1119,Inhibitory neuron
+1120,Excitatory neuron
+1121,Excitatory neuron
+1122,Oligodendrocyte
+1123,Oligodendrocyte
+1124,Oligodendrocyte
+1125,Oligodendrocyte
+1126,Inhibitory neuron
+1127,Inhibitory neuron
+1128,Excitatory neuron
+1129,Inhibitory neuron
+1130,Oligodendrocyte
+1131,Excitatory neuron
+1132,Astrocyte
+1133,Excitatory neuron
+1134,Oligodendrocyte
+1135,Excitatory neuron
+1136,Inhibitory neuron
+1137,Oligodendrocyte
+1138,Excitatory neuron
+1139,Oligodendrocyte
+1140,Inhibitory neuron
+1141,Microglial cell
+1142,Astrocyte
+1143,Astrocyte
+1144,Oligodendrocyte
+1145,Oligodendrocyte precursor cell
+1146,Excitatory neuron
+1147,Astrocyte
+1148,Oligodendrocyte
+1149,Oligodendrocyte
+1150,Microglial cell
+1151,Astrocyte
+1152,Excitatory neuron
+1153,Astrocyte
+1154,Inhibitory neuron
+1155,Astrocyte
+1156,Excitatory neuron
+1157,Endothelial cell
+1158,Oligodendrocyte precursor cell
+1159,Inhibitory neuron
+1160,Oligodendrocyte
+1161,Oligodendrocyte precursor cell
+1162,Oligodendrocyte
+1163,Excitatory neuron
+1164,Microglial cell
+1165,Excitatory neuron
+1166,Endothelial cell
+1167,Excitatory neuron
+1168,Microglial cell
+1169,Excitatory neuron
+1170,Oligodendrocyte precursor cell
+1171,Excitatory neuron
+1172,Oligodendrocyte
+1173,Excitatory neuron
+1174,Excitatory neuron
+1175,Microglial cell
+1176,Oligodendrocyte
+1177,Inhibitory neuron
+1178,Excitatory neuron
+1179,Excitatory neuron
+1180,Inhibitory neuron
+1181,Oligodendrocyte
+1182,Excitatory neuron
+1183,Oligodendrocyte
+1184,Astrocyte
+1185,Excitatory neuron
+1186,Microglial cell
+1187,Inhibitory neuron
+1188,Excitatory neuron
+1189,Astrocyte
+1190,Excitatory neuron
+1191,Oligodendrocyte precursor cell
+1192,Excitatory neuron
+1193,Oligodendrocyte
+1194,Excitatory neuron
+1195,Oligodendrocyte
+1196,Inhibitory neuron
+1197,Excitatory neuron
+1198,Oligodendrocyte
+1199,Excitatory neuron
+1200,Astrocyte
+1201,Astrocyte
+1202,Inhibitory neuron
+1203,Oligodendrocyte
+1204,Microglial cell
+1205,Excitatory neuron
+1206,Astrocyte
+1207,Excitatory neuron
+1208,Endothelial cell
+1209,Oligodendrocyte
+1210,Oligodendrocyte
+1211,Oligodendrocyte
+1212,Excitatory neuron
+1213,Inhibitory neuron
+1214,Inhibitory neuron
+1215,Excitatory neuron
+1216,Microglial cell
+1217,Inhibitory neuron
+1218,Inhibitory neuron
+1219,Excitatory neuron
+1220,Excitatory neuron
+1221,Inhibitory neuron
+1222,Astrocyte
+1223,Microglial cell
+1224,Inhibitory neuron
+1225,Excitatory neuron
+1226,Astrocyte
+1227,Oligodendrocyte
+1228,Excitatory neuron
+1229,Excitatory neuron
+1230,Oligodendrocyte precursor cell
+1231,Oligodendrocyte precursor cell
+1232,Excitatory neuron
+1233,Endothelial cell
+1234,Oligodendrocyte precursor cell
+1235,Inhibitory neuron
+1236,Astrocyte
+1237,Astrocyte
+1238,Oligodendrocyte
+1239,Oligodendrocyte
+1240,Oligodendrocyte precursor cell
+1241,Oligodendrocyte
+1242,Excitatory neuron
+1243,Excitatory neuron
+1244,Inhibitory neuron
+1245,Oligodendrocyte
+1246,Oligodendrocyte
+1247,Oligodendrocyte
+1248,Inhibitory neuron
+1249,Oligodendrocyte
+1250,Excitatory neuron
+1251,Oligodendrocyte
+1252,Astrocyte
+1253,Astrocyte
+1254,Excitatory neuron
+1255,Astrocyte
+1256,Oligodendrocyte
+1257,Oligodendrocyte
+1258,Microglial cell
+1259,Oligodendrocyte
+1260,Excitatory neuron
+1261,Astrocyte
+1262,Oligodendrocyte
+1263,Oligodendrocyte precursor cell
+1264,Inhibitory neuron
+1265,Excitatory neuron
+1266,Excitatory neuron
+1267,Excitatory neuron
+1268,Astrocyte
+1269,Oligodendrocyte
+1270,Excitatory neuron
+1271,Excitatory neuron
+1272,Excitatory neuron
+1273,Microglial cell
+1274,Excitatory neuron
+1275,Inhibitory neuron
+1276,Excitatory neuron
+1277,Excitatory neuron
+1278,Astrocyte
+1279,Astrocyte
+1280,Inhibitory neuron
+1281,Oligodendrocyte
+1282,Excitatory neuron
+1283,Oligodendrocyte
+1284,Excitatory neuron
+1285,Inhibitory neuron
+1286,Oligodendrocyte
+1287,Excitatory neuron
+1288,Microglial cell
+1289,Oligodendrocyte
+1290,Oligodendrocyte
+1291,Inhibitory neuron
+1292,Excitatory neuron
+1293,Excitatory neuron
+1294,Oligodendrocyte
+1295,Microglial cell
+1296,Excitatory neuron
+1297,Inhibitory neuron
+1298,Inhibitory neuron
+1299,Microglial cell
+1300,Astrocyte
+1301,Inhibitory neuron
+1302,Excitatory neuron
+1303,Astrocyte
+1304,Excitatory neuron
+1305,Excitatory neuron
+1306,Astrocyte
+1307,Inhibitory neuron
+1308,Oligodendrocyte
+1309,Excitatory neuron
+1310,Excitatory neuron
+1311,Excitatory neuron
+1312,Excitatory neuron
+1313,Excitatory neuron
+1314,Oligodendrocyte
+1315,Oligodendrocyte
+1316,Inhibitory neuron
+1317,Oligodendrocyte
+1318,Excitatory neuron
+1319,Excitatory neuron
+1320,Oligodendrocyte
+1321,Excitatory neuron
+1322,Inhibitory neuron
+1323,Oligodendrocyte precursor cell
+1324,Oligodendrocyte precursor cell
+1325,Endothelial cell
+1326,Inhibitory neuron
+1327,Excitatory neuron
+1328,Oligodendrocyte
+1329,Excitatory neuron
+1330,Astrocyte
+1331,Oligodendrocyte
+1332,Inhibitory neuron
+1333,Astrocyte
+1334,Oligodendrocyte
+1335,Microglial cell
+1336,Microglial cell
+1337,Oligodendrocyte
+1338,Excitatory neuron
+1339,Excitatory neuron
+1340,Excitatory neuron
+1341,Astrocyte
+1342,Oligodendrocyte
+1343,Inhibitory neuron
+1344,Excitatory neuron
+1345,Oligodendrocyte
+1346,Excitatory neuron
+1347,Oligodendrocyte
+1348,Astrocyte
+1349,Microglial cell
+1350,Astrocyte
+1351,Astrocyte
+1352,Excitatory neuron
+1353,Excitatory neuron
+1354,Microglial cell
+1355,Excitatory neuron
+1356,Microglial cell
+1357,Excitatory neuron
+1358,Inhibitory neuron
+1359,Oligodendrocyte precursor cell
+1360,Astrocyte
+1361,Excitatory neuron
+1362,Oligodendrocyte
+1363,Excitatory neuron
+1364,Excitatory neuron
+1365,Oligodendrocyte
+1366,Oligodendrocyte precursor cell
+1367,Astrocyte
+1368,Astrocyte
+1369,Excitatory neuron
+1370,Excitatory neuron
+1371,Microglial cell
+1372,Excitatory neuron
+1373,Oligodendrocyte
+1374,Oligodendrocyte precursor cell
+1375,Oligodendrocyte
+1376,Astrocyte
+1377,Inhibitory neuron
+1378,Oligodendrocyte precursor cell
+1379,Oligodendrocyte
+1380,Excitatory neuron
+1381,Excitatory neuron
+1382,Oligodendrocyte
+1383,Excitatory neuron
+1384,Excitatory neuron
+1385,Excitatory neuron
+1386,Excitatory neuron
+1387,Excitatory neuron
+1388,Inhibitory neuron
+1389,Inhibitory neuron
+1390,Excitatory neuron
+1391,Inhibitory neuron
+1392,Oligodendrocyte
+1393,Inhibitory neuron
+1394,Inhibitory neuron
+1395,Excitatory neuron
+1396,Inhibitory neuron
+1397,Inhibitory neuron
+1398,Astrocyte
+1399,Oligodendrocyte precursor cell
+1400,Inhibitory neuron
+1401,Oligodendrocyte
+1402,Astrocyte
+1403,Inhibitory neuron
+1404,Excitatory neuron
+1405,Oligodendrocyte precursor cell
+1406,Astrocyte
+1407,Oligodendrocyte
+1408,Inhibitory neuron
+1409,Excitatory neuron
+1410,Inhibitory neuron
+1411,Oligodendrocyte
+1412,Excitatory neuron
+1413,Inhibitory neuron
+1414,Excitatory neuron
+1415,Oligodendrocyte
+1416,Inhibitory neuron
+1417,Inhibitory neuron
+1418,Oligodendrocyte
+1419,Excitatory neuron
+1420,Oligodendrocyte precursor cell
+1421,Inhibitory neuron
+1422,Astrocyte
+1423,Excitatory neuron
+1424,Inhibitory neuron
+1425,Astrocyte
+1426,Oligodendrocyte
+1427,Astrocyte
+1428,Oligodendrocyte
+1429,Inhibitory neuron
+1430,Microglial cell
+1431,Oligodendrocyte
+1432,Oligodendrocyte
+1433,Microglial cell
+1434,Excitatory neuron
+1435,Microglial cell
+1436,Oligodendrocyte
+1437,Excitatory neuron
+1438,Excitatory neuron
+1439,Oligodendrocyte
+1440,Excitatory neuron
+1441,Oligodendrocyte
+1442,Oligodendrocyte
+1443,Excitatory neuron
+1444,Excitatory neuron
+1445,Oligodendrocyte
+1446,Inhibitory neuron
+1447,Excitatory neuron
+1448,Oligodendrocyte
+1449,Excitatory neuron
+1450,Oligodendrocyte precursor cell
+1451,Oligodendrocyte
+1452,Excitatory neuron
+1453,Inhibitory neuron
+1454,Microglial cell
+1455,Excitatory neuron
+1456,Oligodendrocyte
+1457,Excitatory neuron
+1458,Oligodendrocyte
+1459,Excitatory neuron
+1460,Excitatory neuron
+1461,Excitatory neuron
+1462,Excitatory neuron
+1463,Astrocyte
+1464,Inhibitory neuron
+1465,Oligodendrocyte
+1466,Oligodendrocyte
+1467,Excitatory neuron
+1468,Astrocyte
+1469,Endothelial cell
+1470,Excitatory neuron
+1471,Oligodendrocyte precursor cell
+1472,Astrocyte
+1473,Inhibitory neuron
+1474,Microglial cell
+1475,Astrocyte
+1476,Excitatory neuron
+1477,Oligodendrocyte precursor cell
+1478,Inhibitory neuron
+1479,Excitatory neuron
+1480,Oligodendrocyte
+1481,Oligodendrocyte
+1482,Oligodendrocyte
+1483,Astrocyte
+1484,Excitatory neuron
+1485,Excitatory neuron
+1486,Astrocyte
+1487,Astrocyte
+1488,Excitatory neuron
+1489,Oligodendrocyte
+1490,Excitatory neuron
+1491,Oligodendrocyte
+1492,Inhibitory neuron
+1493,Oligodendrocyte
+1494,Excitatory neuron
+1495,Oligodendrocyte precursor cell
+1496,Oligodendrocyte
+1497,Oligodendrocyte
+1498,Oligodendrocyte precursor cell
+1499,Oligodendrocyte
+1500,Excitatory neuron
+1501,Oligodendrocyte
+1502,Excitatory neuron
+1503,Inhibitory neuron
+1504,Excitatory neuron
+1505,Excitatory neuron
+1506,Oligodendrocyte
+1507,Oligodendrocyte precursor cell
+1508,Oligodendrocyte
+1509,Inhibitory neuron
+1510,Oligodendrocyte
+1511,Oligodendrocyte
+1512,Oligodendrocyte
+1513,Oligodendrocyte
+1514,Inhibitory neuron
+1515,Astrocyte
+1516,Inhibitory neuron
+1517,Microglial cell
+1518,Excitatory neuron
+1519,Excitatory neuron
+1520,Oligodendrocyte
+1521,Excitatory neuron
+1522,Excitatory neuron
+1523,Microglial cell
+1524,Excitatory neuron
+1525,Inhibitory neuron
+1526,Inhibitory neuron
+1527,Excitatory neuron
+1528,Inhibitory neuron
+1529,Excitatory neuron
+1530,Excitatory neuron
+1531,Excitatory neuron
+1532,Excitatory neuron
+1533,Microglial cell
+1534,Oligodendrocyte
+1535,Inhibitory neuron
+1536,Excitatory neuron
+1537,Oligodendrocyte
+1538,Excitatory neuron
+1539,Excitatory neuron
+1540,Oligodendrocyte
+1541,Oligodendrocyte precursor cell
+1542,Astrocyte
+1543,Excitatory neuron
+1544,Oligodendrocyte
+1545,Excitatory neuron
+1546,Oligodendrocyte
+1547,Astrocyte
+1548,Oligodendrocyte
+1549,Excitatory neuron
+1550,Inhibitory neuron
+1551,Microglial cell
+1552,Excitatory neuron
+1553,Oligodendrocyte
+1554,Excitatory neuron
+1555,Oligodendrocyte
+1556,Oligodendrocyte
+1557,Microglial cell
+1558,Excitatory neuron
+1559,Excitatory neuron
+1560,Inhibitory neuron
+1561,Oligodendrocyte
+1562,Excitatory neuron
+1563,Excitatory neuron
+1564,Inhibitory neuron
+1565,Oligodendrocyte
+1566,Oligodendrocyte
+1567,Oligodendrocyte precursor cell
+1568,Oligodendrocyte precursor cell
+1569,Oligodendrocyte
+1570,Oligodendrocyte precursor cell
+1571,Excitatory neuron
+1572,Excitatory neuron
+1573,Inhibitory neuron
+1574,Inhibitory neuron
+1575,Astrocyte
+1576,Oligodendrocyte
+1577,Microglial cell
+1578,Excitatory neuron
+1579,Oligodendrocyte
+1580,Excitatory neuron
+1581,Oligodendrocyte
+1582,Excitatory neuron
+1583,Excitatory neuron
+1584,Oligodendrocyte
+1585,Inhibitory neuron
+1586,Astrocyte
+1587,Astrocyte
+1588,Oligodendrocyte
+1589,Oligodendrocyte
+1590,Excitatory neuron
+1591,Astrocyte
+1592,Oligodendrocyte
+1593,Excitatory neuron
+1594,Excitatory neuron
+1595,Excitatory neuron
+1596,Oligodendrocyte
+1597,Excitatory neuron
+1598,Inhibitory neuron
+1599,Excitatory neuron
+1600,Oligodendrocyte
+1601,Oligodendrocyte
+1602,Excitatory neuron
+1603,Excitatory neuron
+1604,Astrocyte
+1605,Oligodendrocyte
+1606,Inhibitory neuron
+1607,Inhibitory neuron
+1608,Excitatory neuron
+1609,Oligodendrocyte precursor cell
+1610,Microglial cell
+1611,Excitatory neuron
+1612,Excitatory neuron
+1613,Microglial cell
+1614,Excitatory neuron
+1615,Microglial cell
+1616,Excitatory neuron
+1617,Oligodendrocyte
+1618,Oligodendrocyte precursor cell
+1619,Excitatory neuron
+1620,Oligodendrocyte
+1621,Inhibitory neuron
+1622,Inhibitory neuron
+1623,Oligodendrocyte
+1624,Oligodendrocyte
+1625,Excitatory neuron
+1626,Oligodendrocyte
+1627,Excitatory neuron
+1628,Astrocyte
+1629,Endothelial cell
+1630,Excitatory neuron
+1631,Excitatory neuron
+1632,Astrocyte
+1633,Astrocyte
+1634,Endothelial cell
+1635,Oligodendrocyte
+1636,Excitatory neuron
+1637,Oligodendrocyte
+1638,Oligodendrocyte
+1639,Oligodendrocyte
+1640,Astrocyte
+1641,Oligodendrocyte
+1642,Inhibitory neuron
+1643,Astrocyte
+1644,Excitatory neuron
+1645,Excitatory neuron
+1646,Inhibitory neuron
+1647,Oligodendrocyte
+1648,Microglial cell
+1649,Excitatory neuron
+1650,Oligodendrocyte
+1651,Excitatory neuron
+1652,Oligodendrocyte precursor cell
+1653,Inhibitory neuron
+1654,Inhibitory neuron
+1655,Oligodendrocyte
+1656,Excitatory neuron
+1657,Oligodendrocyte
+1658,Microglial cell
+1659,Oligodendrocyte precursor cell
+1660,Oligodendrocyte
+1661,Excitatory neuron
+1662,Astrocyte
+1663,Excitatory neuron
+1664,Excitatory neuron
+1665,Excitatory neuron
+1666,Oligodendrocyte
+1667,Excitatory neuron
+1668,Excitatory neuron
+1669,Excitatory neuron
+1670,Excitatory neuron
+1671,Inhibitory neuron
+1672,Excitatory neuron
+1673,Excitatory neuron
+1674,Oligodendrocyte
+1675,Oligodendrocyte
+1676,Inhibitory neuron
+1677,Excitatory neuron
+1678,Astrocyte
+1679,Excitatory neuron
+1680,Oligodendrocyte
+1681,Oligodendrocyte
+1682,Excitatory neuron
+1683,Microglial cell
+1684,Inhibitory neuron
+1685,Excitatory neuron
+1686,Excitatory neuron
+1687,Inhibitory neuron
+1688,Inhibitory neuron
+1689,Inhibitory neuron
+1690,Oligodendrocyte
+1691,Oligodendrocyte
+1692,Oligodendrocyte precursor cell
+1693,Inhibitory neuron
+1694,Excitatory neuron
+1695,Excitatory neuron
+1696,Excitatory neuron
+1697,Inhibitory neuron
+1698,Inhibitory neuron
+1699,Inhibitory neuron
+1700,Astrocyte
+1701,Inhibitory neuron
+1702,Astrocyte
+1703,Astrocyte
+1704,Inhibitory neuron
+1705,Inhibitory neuron
+1706,Excitatory neuron
+1707,Excitatory neuron
+1708,Excitatory neuron
+1709,Oligodendrocyte
+1710,Microglial cell
+1711,Oligodendrocyte
+1712,Oligodendrocyte
+1713,Oligodendrocyte
+1714,Oligodendrocyte precursor cell
+1715,Excitatory neuron
+1716,Excitatory neuron
+1717,Excitatory neuron
+1718,Microglial cell
+1719,Endothelial cell
+1720,Excitatory neuron
+1721,Excitatory neuron
+1722,Oligodendrocyte
+1723,Inhibitory neuron
+1724,Excitatory neuron
+1725,Inhibitory neuron
+1726,Oligodendrocyte
+1727,Microglial cell
+1728,Excitatory neuron
+1729,Excitatory neuron
+1730,Excitatory neuron
+1731,Endothelial cell
+1732,Inhibitory neuron
+1733,Inhibitory neuron
+1734,Oligodendrocyte
+1735,Excitatory neuron
+1736,Oligodendrocyte
+1737,Astrocyte
+1738,Excitatory neuron
+1739,Oligodendrocyte
+1740,Excitatory neuron
+1741,Oligodendrocyte
+1742,Excitatory neuron
+1743,Excitatory neuron
+1744,Oligodendrocyte
+1745,Astrocyte
+1746,Oligodendrocyte
+1747,Excitatory neuron
+1748,Excitatory neuron
+1749,Oligodendrocyte precursor cell
+1750,Astrocyte
+1751,Oligodendrocyte
+1752,Oligodendrocyte
+1753,Oligodendrocyte
+1754,Excitatory neuron
+1755,Inhibitory neuron
+1756,Oligodendrocyte precursor cell
+1757,Inhibitory neuron
+1758,Oligodendrocyte precursor cell
+1759,Microglial cell
+1760,Excitatory neuron
+1761,Oligodendrocyte
+1762,Oligodendrocyte
+1763,Excitatory neuron
+1764,Excitatory neuron
+1765,Astrocyte
+1766,Microglial cell
+1767,Oligodendrocyte
+1768,Endothelial cell
+1769,Oligodendrocyte
+1770,Inhibitory neuron
+1771,Microglial cell
+1772,Excitatory neuron
+1773,Oligodendrocyte
+1774,Astrocyte
+1775,Oligodendrocyte
+1776,Excitatory neuron
+1777,Inhibitory neuron
+1778,Excitatory neuron
+1779,Astrocyte
+1780,Astrocyte
+1781,Inhibitory neuron
+1782,Excitatory neuron
+1783,Oligodendrocyte precursor cell
+1784,Excitatory neuron
+1785,Microglial cell
+1786,Oligodendrocyte
+1787,Microglial cell
+1788,Inhibitory neuron
+1789,Oligodendrocyte precursor cell
+1790,Excitatory neuron
+1791,Oligodendrocyte
+1792,Excitatory neuron
+1793,Microglial cell
+1794,Excitatory neuron
+1795,Oligodendrocyte
+1796,Excitatory neuron
+1797,Oligodendrocyte precursor cell
+1798,Excitatory neuron
+1799,Inhibitory neuron
+1800,Astrocyte
+1801,Excitatory neuron
+1802,Excitatory neuron
+1803,Inhibitory neuron
+1804,Excitatory neuron
+1805,Oligodendrocyte
+1806,Oligodendrocyte
+1807,Inhibitory neuron
+1808,Astrocyte
+1809,Inhibitory neuron
+1810,Excitatory neuron
+1811,Astrocyte
+1812,Astrocyte
+1813,Oligodendrocyte precursor cell
+1814,Excitatory neuron
+1815,Inhibitory neuron
+1816,Excitatory neuron
+1817,Oligodendrocyte
+1818,Excitatory neuron
+1819,Oligodendrocyte precursor cell
+1820,Endothelial cell
+1821,Inhibitory neuron
+1822,Inhibitory neuron
+1823,Oligodendrocyte precursor cell
+1824,Astrocyte
+1825,Inhibitory neuron
+1826,Oligodendrocyte
+1827,Excitatory neuron
+1828,Excitatory neuron
+1829,Oligodendrocyte precursor cell
+1830,Excitatory neuron
+1831,Excitatory neuron
+1832,Inhibitory neuron
+1833,Excitatory neuron
+1834,Astrocyte
+1835,Inhibitory neuron
+1836,Inhibitory neuron
+1837,Oligodendrocyte
+1838,Excitatory neuron
+1839,Oligodendrocyte
+1840,Excitatory neuron
+1841,Inhibitory neuron
+1842,Oligodendrocyte
+1843,Excitatory neuron
+1844,Inhibitory neuron
+1845,Excitatory neuron
+1846,Astrocyte
+1847,Excitatory neuron
+1848,Astrocyte
+1849,Oligodendrocyte
+1850,Astrocyte
+1851,Excitatory neuron
+1852,Excitatory neuron
+1853,Excitatory neuron
+1854,Astrocyte
+1855,Inhibitory neuron
+1856,Excitatory neuron
+1857,Oligodendrocyte precursor cell
+1858,Excitatory neuron
+1859,Excitatory neuron
+1860,Excitatory neuron
+1861,Oligodendrocyte
+1862,Oligodendrocyte
+1863,Inhibitory neuron
+1864,Oligodendrocyte
+1865,Oligodendrocyte
+1866,Excitatory neuron
+1867,Inhibitory neuron
+1868,Microglial cell
+1869,Microglial cell
+1870,Astrocyte
+1871,Oligodendrocyte
+1872,Excitatory neuron
+1873,Astrocyte
+1874,Oligodendrocyte
+1875,Inhibitory neuron
+1876,Oligodendrocyte
+1877,Oligodendrocyte
+1878,Oligodendrocyte
+1879,Excitatory neuron
+1880,Astrocyte
+1881,Oligodendrocyte precursor cell
+1882,Microglial cell
+1883,Inhibitory neuron
+1884,Astrocyte
+1885,Oligodendrocyte
+1886,Microglial cell
+1887,Inhibitory neuron
+1888,Oligodendrocyte
+1889,Oligodendrocyte
+1890,Oligodendrocyte
+1891,Excitatory neuron
+1892,Inhibitory neuron
+1893,Microglial cell
+1894,Excitatory neuron
+1895,Astrocyte
+1896,Astrocyte
+1897,Oligodendrocyte precursor cell
+1898,Excitatory neuron
+1899,Inhibitory neuron
+1900,Microglial cell
+1901,Oligodendrocyte precursor cell
+1902,Excitatory neuron
+1903,Oligodendrocyte
+1904,Oligodendrocyte
+1905,Astrocyte
+1906,Excitatory neuron
+1907,Excitatory neuron
+1908,Inhibitory neuron
+1909,Oligodendrocyte
+1910,Inhibitory neuron
+1911,Excitatory neuron
+1912,Inhibitory neuron
+1913,Microglial cell
+1914,Excitatory neuron
+1915,Astrocyte
+1916,Excitatory neuron
+1917,Inhibitory neuron
+1918,Inhibitory neuron
+1919,Excitatory neuron
+1920,Oligodendrocyte
+1921,Oligodendrocyte
+1922,Astrocyte
+1923,Excitatory neuron
+1924,Oligodendrocyte precursor cell
+1925,Oligodendrocyte
+1926,Excitatory neuron
+1927,Inhibitory neuron
+1928,Excitatory neuron
+1929,Oligodendrocyte
+1930,Excitatory neuron
+1931,Oligodendrocyte
+1932,Excitatory neuron
+1933,Microglial cell
+1934,Oligodendrocyte
+1935,Oligodendrocyte
+1936,Oligodendrocyte precursor cell
+1937,Oligodendrocyte
+1938,Inhibitory neuron
+1939,Microglial cell
+1940,Inhibitory neuron
+1941,Oligodendrocyte
+1942,Excitatory neuron
+1943,Inhibitory neuron
+1944,Inhibitory neuron
+1945,Astrocyte
+1946,Oligodendrocyte
+1947,Excitatory neuron
+1948,Oligodendrocyte
+1949,Inhibitory neuron
+1950,Oligodendrocyte
+1951,Inhibitory neuron
+1952,Excitatory neuron
+1953,Excitatory neuron
+1954,Excitatory neuron
+1955,Inhibitory neuron
+1956,Excitatory neuron
+1957,Excitatory neuron
+1958,Excitatory neuron
+1959,Excitatory neuron
+1960,Excitatory neuron
+1961,Oligodendrocyte
+1962,Oligodendrocyte
+1963,Microglial cell
+1964,Excitatory neuron
+1965,Inhibitory neuron
+1966,Excitatory neuron
+1967,Inhibitory neuron
+1968,Excitatory neuron
+1969,Oligodendrocyte
+1970,Oligodendrocyte
+1971,Oligodendrocyte
+1972,Microglial cell
+1973,Oligodendrocyte
+1974,Excitatory neuron
+1975,Oligodendrocyte
+1976,Oligodendrocyte precursor cell
+1977,Oligodendrocyte
+1978,Excitatory neuron
+1979,Excitatory neuron
+1980,Excitatory neuron
+1981,Inhibitory neuron
+1982,Astrocyte
+1983,Oligodendrocyte
+1984,Excitatory neuron
+1985,Oligodendrocyte
+1986,Oligodendrocyte precursor cell
+1987,Inhibitory neuron
+1988,Astrocyte
+1989,Excitatory neuron
+1990,Oligodendrocyte
+1991,Oligodendrocyte
+1992,Oligodendrocyte
+1993,Excitatory neuron
+1994,Astrocyte
+1995,Oligodendrocyte
+1996,Inhibitory neuron
+1997,Excitatory neuron
+1998,Oligodendrocyte
+1999,Astrocyte
+2000,Excitatory neuron
+2001,Astrocyte
+2002,Excitatory neuron
+2003,Microglial cell
+2004,Astrocyte
+2005,Microglial cell
+2006,Excitatory neuron
+2007,Excitatory neuron
+2008,Excitatory neuron
+2009,Inhibitory neuron
+2010,Excitatory neuron
+2011,Excitatory neuron
+2012,Astrocyte
+2013,Inhibitory neuron
+2014,Astrocyte
+2015,Oligodendrocyte
+2016,Microglial cell
+2017,Oligodendrocyte
+2018,Astrocyte
+2019,Oligodendrocyte
+2020,Oligodendrocyte
+2021,Oligodendrocyte precursor cell
+2022,Astrocyte
+2023,Excitatory neuron
+2024,Excitatory neuron
+2025,Excitatory neuron
+2026,Excitatory neuron
+2027,Excitatory neuron
+2028,Oligodendrocyte
+2029,Inhibitory neuron
+2030,Excitatory neuron
+2031,Excitatory neuron
+2032,Excitatory neuron
+2033,Inhibitory neuron
+2034,Excitatory neuron
+2035,Oligodendrocyte
+2036,Excitatory neuron
+2037,Inhibitory neuron
+2038,Oligodendrocyte precursor cell
+2039,Oligodendrocyte
+2040,Astrocyte
+2041,Excitatory neuron
+2042,Excitatory neuron
+2043,Inhibitory neuron
+2044,Inhibitory neuron
+2045,Excitatory neuron
+2046,Oligodendrocyte
+2047,Inhibitory neuron
+2048,Inhibitory neuron
+2049,Inhibitory neuron
+2050,Excitatory neuron
+2051,Excitatory neuron
+2052,Oligodendrocyte
+2053,Inhibitory neuron
+2054,Oligodendrocyte
+2055,Oligodendrocyte
+2056,Oligodendrocyte
+2057,Excitatory neuron
+2058,Excitatory neuron
+2059,Inhibitory neuron
+2060,Excitatory neuron
+2061,Excitatory neuron
+2062,Inhibitory neuron
+2063,Excitatory neuron
+2064,Astrocyte
+2065,Excitatory neuron
+2066,Oligodendrocyte
+2067,Oligodendrocyte
+2068,Endothelial cell
+2069,Excitatory neuron
+2070,Oligodendrocyte precursor cell
+2071,Excitatory neuron
+2072,Inhibitory neuron
+2073,Excitatory neuron
+2074,Excitatory neuron
+2075,Microglial cell
+2076,Excitatory neuron
+2077,Excitatory neuron
+2078,Oligodendrocyte
+2079,Oligodendrocyte
+2080,Oligodendrocyte
+2081,Excitatory neuron
+2082,Oligodendrocyte
+2083,Inhibitory neuron
+2084,Endothelial cell
+2085,Excitatory neuron
+2086,Oligodendrocyte precursor cell
+2087,Oligodendrocyte
+2088,Oligodendrocyte
+2089,Excitatory neuron
+2090,Oligodendrocyte
+2091,Astrocyte
+2092,Inhibitory neuron
+2093,Oligodendrocyte precursor cell
+2094,Oligodendrocyte
+2095,Oligodendrocyte precursor cell
+2096,Oligodendrocyte precursor cell
+2097,Excitatory neuron
+2098,Excitatory neuron
+2099,Excitatory neuron
+2100,Oligodendrocyte precursor cell
+2101,Oligodendrocyte
+2102,Oligodendrocyte precursor cell
+2103,Oligodendrocyte
+2104,Oligodendrocyte
+2105,Excitatory neuron
+2106,Excitatory neuron
+2107,Astrocyte
+2108,Microglial cell
+2109,Inhibitory neuron
+2110,Excitatory neuron
+2111,Oligodendrocyte
+2112,Astrocyte
+2113,Oligodendrocyte
+2114,Excitatory neuron
+2115,Excitatory neuron
+2116,Oligodendrocyte
+2117,Excitatory neuron
+2118,Oligodendrocyte
+2119,Inhibitory neuron
+2120,Excitatory neuron
+2121,Excitatory neuron
+2122,Oligodendrocyte
+2123,Oligodendrocyte
+2124,Excitatory neuron
+2125,Microglial cell
+2126,Excitatory neuron
+2127,Oligodendrocyte precursor cell
+2128,Endothelial cell
+2129,Excitatory neuron
+2130,Oligodendrocyte
+2131,Oligodendrocyte precursor cell
+2132,Excitatory neuron
+2133,Oligodendrocyte
+2134,Oligodendrocyte
+2135,Oligodendrocyte
+2136,Excitatory neuron
+2137,Oligodendrocyte
+2138,Oligodendrocyte
+2139,Endothelial cell
+2140,Inhibitory neuron
+2141,Inhibitory neuron
+2142,Excitatory neuron
+2143,Excitatory neuron
+2144,Oligodendrocyte
+2145,Oligodendrocyte
+2146,Excitatory neuron
+2147,Oligodendrocyte
+2148,Oligodendrocyte
+2149,Excitatory neuron
+2150,Excitatory neuron
+2151,Oligodendrocyte
+2152,Microglial cell
+2153,Inhibitory neuron
+2154,Excitatory neuron
+2155,Excitatory neuron
+2156,Microglial cell
+2157,Astrocyte
+2158,Excitatory neuron
+2159,Excitatory neuron
+2160,Inhibitory neuron
+2161,Microglial cell
+2162,Inhibitory neuron
+2163,Excitatory neuron
+2164,Astrocyte
+2165,Astrocyte
+2166,Oligodendrocyte
+2167,Inhibitory neuron
+2168,Excitatory neuron
+2169,Excitatory neuron
+2170,Oligodendrocyte
+2171,Excitatory neuron
+2172,Inhibitory neuron
+2173,Excitatory neuron
+2174,Oligodendrocyte precursor cell
+2175,Excitatory neuron
+2176,Excitatory neuron
+2177,Excitatory neuron
+2178,Excitatory neuron
+2179,Excitatory neuron
+2180,Oligodendrocyte
+2181,Endothelial cell
+2182,Oligodendrocyte
+2183,Endothelial cell
+2184,Excitatory neuron
+2185,Excitatory neuron
+2186,Excitatory neuron
+2187,Astrocyte
+2188,Oligodendrocyte
+2189,Excitatory neuron
+2190,Excitatory neuron
+2191,Astrocyte
+2192,Oligodendrocyte
+2193,Oligodendrocyte
+2194,Excitatory neuron
+2195,Oligodendrocyte
+2196,Excitatory neuron
+2197,Excitatory neuron
+2198,Oligodendrocyte
+2199,Oligodendrocyte
+2200,Excitatory neuron
+2201,Microglial cell
+2202,Microglial cell
+2203,Astrocyte
+2204,Oligodendrocyte
+2205,Excitatory neuron
+2206,Excitatory neuron
+2207,Excitatory neuron
+2208,Excitatory neuron
+2209,Excitatory neuron
+2210,Excitatory neuron
+2211,Oligodendrocyte
+2212,Excitatory neuron
+2213,Excitatory neuron
+2214,Oligodendrocyte
+2215,Oligodendrocyte
+2216,Excitatory neuron
+2217,Oligodendrocyte precursor cell
+2218,Excitatory neuron
+2219,Excitatory neuron
+2220,Microglial cell
+2221,Oligodendrocyte precursor cell
+2222,Excitatory neuron
+2223,Oligodendrocyte
+2224,Astrocyte
+2225,Excitatory neuron
+2226,Oligodendrocyte
+2227,Excitatory neuron
+2228,Oligodendrocyte
+2229,Excitatory neuron
+2230,Oligodendrocyte
+2231,Oligodendrocyte
+2232,Inhibitory neuron
+2233,Inhibitory neuron
+2234,Excitatory neuron
+2235,Inhibitory neuron
+2236,Oligodendrocyte precursor cell
+2237,Excitatory neuron
+2238,Oligodendrocyte precursor cell
+2239,Oligodendrocyte precursor cell
+2240,Excitatory neuron
+2241,Microglial cell
+2242,Oligodendrocyte
+2243,Excitatory neuron
+2244,Excitatory neuron
+2245,Microglial cell
+2246,Inhibitory neuron
+2247,Oligodendrocyte precursor cell
+2248,Oligodendrocyte
+2249,Microglial cell
+2250,Astrocyte
+2251,Oligodendrocyte precursor cell
+2252,Excitatory neuron
+2253,Oligodendrocyte
+2254,Oligodendrocyte
+2255,Oligodendrocyte
+2256,Excitatory neuron
+2257,Inhibitory neuron
+2258,Excitatory neuron
+2259,Excitatory neuron
+2260,Excitatory neuron
+2261,Excitatory neuron
+2262,Excitatory neuron
+2263,Excitatory neuron
+2264,Oligodendrocyte
+2265,Oligodendrocyte
+2266,Excitatory neuron
+2267,Inhibitory neuron
+2268,Oligodendrocyte
+2269,Oligodendrocyte
+2270,Microglial cell
+2271,Excitatory neuron
+2272,Astrocyte
+2273,Inhibitory neuron
+2274,Astrocyte
+2275,Oligodendrocyte
+2276,Excitatory neuron
+2277,Oligodendrocyte
+2278,Oligodendrocyte
+2279,Excitatory neuron
+2280,Inhibitory neuron
+2281,Oligodendrocyte
+2282,Astrocyte
+2283,Excitatory neuron
+2284,Excitatory neuron
+2285,Oligodendrocyte precursor cell
+2286,Excitatory neuron
+2287,Excitatory neuron
+2288,Excitatory neuron
+2289,Astrocyte
+2290,Oligodendrocyte
+2291,Excitatory neuron
+2292,Oligodendrocyte precursor cell
+2293,Astrocyte
+2294,Excitatory neuron
+2295,Oligodendrocyte
+2296,Astrocyte
+2297,Inhibitory neuron
+2298,Microglial cell
+2299,Excitatory neuron
+2300,Astrocyte
+2301,Excitatory neuron
+2302,Excitatory neuron
+2303,Excitatory neuron
+2304,Oligodendrocyte
+2305,Oligodendrocyte
+2306,Excitatory neuron
+2307,Excitatory neuron
+2308,Excitatory neuron
+2309,Oligodendrocyte
+2310,Oligodendrocyte
+2311,Excitatory neuron
+2312,Excitatory neuron
+2313,Excitatory neuron
+2314,Excitatory neuron
+2315,Excitatory neuron
+2316,Excitatory neuron
+2317,Astrocyte
+2318,Inhibitory neuron
+2319,Oligodendrocyte
+2320,Oligodendrocyte
+2321,Excitatory neuron
+2322,Endothelial cell
+2323,Astrocyte
+2324,Excitatory neuron
+2325,Astrocyte
+2326,Oligodendrocyte precursor cell
+2327,Oligodendrocyte
+2328,Inhibitory neuron
+2329,Excitatory neuron
+2330,Excitatory neuron
+2331,Excitatory neuron
+2332,Microglial cell
+2333,Oligodendrocyte
+2334,Astrocyte
+2335,Microglial cell
+2336,Excitatory neuron
+2337,Excitatory neuron
+2338,Oligodendrocyte precursor cell
+2339,Astrocyte
+2340,Inhibitory neuron
+2341,Microglial cell
+2342,Oligodendrocyte
+2343,Oligodendrocyte
+2344,Astrocyte
+2345,Excitatory neuron
+2346,Oligodendrocyte
+2347,Excitatory neuron
+2348,Excitatory neuron
+2349,Astrocyte
+2350,Oligodendrocyte
+2351,Microglial cell
+2352,Oligodendrocyte
+2353,Excitatory neuron
+2354,Excitatory neuron
+2355,Excitatory neuron
+2356,Oligodendrocyte
+2357,Oligodendrocyte precursor cell
+2358,Inhibitory neuron
+2359,Excitatory neuron
+2360,Oligodendrocyte precursor cell
+2361,Excitatory neuron
+2362,Excitatory neuron
+2363,Oligodendrocyte
+2364,Oligodendrocyte
+2365,Inhibitory neuron
+2366,Astrocyte
+2367,Inhibitory neuron
+2368,Excitatory neuron
+2369,Oligodendrocyte
+2370,Excitatory neuron
+2371,Excitatory neuron
+2372,Excitatory neuron
+2373,Astrocyte
+2374,Oligodendrocyte
+2375,Excitatory neuron
+2376,Excitatory neuron
+2377,Microglial cell
+2378,Oligodendrocyte
+2379,Excitatory neuron
+2380,Inhibitory neuron
+2381,Excitatory neuron
+2382,Oligodendrocyte
+2383,Excitatory neuron
+2384,Astrocyte
+2385,Astrocyte
+2386,Excitatory neuron
+2387,Excitatory neuron
+2388,Oligodendrocyte
+2389,Inhibitory neuron
+2390,Excitatory neuron
+2391,Oligodendrocyte
+2392,Inhibitory neuron
+2393,Oligodendrocyte
+2394,Excitatory neuron
+2395,Oligodendrocyte precursor cell
+2396,Excitatory neuron
+2397,Endothelial cell
+2398,Inhibitory neuron
+2399,Oligodendrocyte
+2400,Inhibitory neuron
+2401,Oligodendrocyte precursor cell
+2402,Astrocyte
+2403,Astrocyte
+2404,Endothelial cell
+2405,Excitatory neuron
+2406,Oligodendrocyte
+2407,Oligodendrocyte
+2408,Astrocyte
+2409,Inhibitory neuron
+2410,Oligodendrocyte
+2411,Excitatory neuron
+2412,Excitatory neuron
+2413,Excitatory neuron
+2414,Inhibitory neuron
+2415,Oligodendrocyte precursor cell
+2416,Excitatory neuron
+2417,Excitatory neuron
+2418,Inhibitory neuron
+2419,Microglial cell
+2420,Microglial cell
+2421,Excitatory neuron
+2422,Oligodendrocyte
+2423,Excitatory neuron
+2424,Excitatory neuron
+2425,Oligodendrocyte
+2426,Oligodendrocyte
+2427,Astrocyte
+2428,Astrocyte
+2429,Oligodendrocyte
+2430,Excitatory neuron
+2431,Excitatory neuron
+2432,Excitatory neuron
+2433,Astrocyte
+2434,Oligodendrocyte
+2435,Microglial cell
+2436,Excitatory neuron
+2437,Excitatory neuron
+2438,Excitatory neuron
+2439,Oligodendrocyte
+2440,Microglial cell
+2441,Inhibitory neuron
+2442,Inhibitory neuron
+2443,Astrocyte
+2444,Oligodendrocyte precursor cell
+2445,Excitatory neuron
+2446,Oligodendrocyte precursor cell
+2447,Inhibitory neuron
+2448,Inhibitory neuron
+2449,Astrocyte
+2450,Excitatory neuron
+2451,Inhibitory neuron
+2452,Oligodendrocyte
+2453,Inhibitory neuron
+2454,Oligodendrocyte
+2455,Microglial cell
+2456,Inhibitory neuron
+2457,Excitatory neuron
+2458,Microglial cell
+2459,Oligodendrocyte
+2460,Oligodendrocyte precursor cell
+2461,Inhibitory neuron
+2462,Microglial cell
+2463,Excitatory neuron
+2464,Excitatory neuron
+2465,Oligodendrocyte
+2466,Excitatory neuron
+2467,Excitatory neuron
+2468,Excitatory neuron
+2469,Excitatory neuron
+2470,Excitatory neuron
+2471,Astrocyte
+2472,Oligodendrocyte
+2473,Inhibitory neuron
+2474,Inhibitory neuron
+2475,Excitatory neuron
+2476,Excitatory neuron
+2477,Oligodendrocyte
+2478,Oligodendrocyte
+2479,Oligodendrocyte
+2480,Excitatory neuron
+2481,Inhibitory neuron
+2482,Oligodendrocyte
+2483,Oligodendrocyte
+2484,Excitatory neuron
+2485,Inhibitory neuron
+2486,Excitatory neuron
+2487,Excitatory neuron
+2488,Excitatory neuron
+2489,Inhibitory neuron
+2490,Oligodendrocyte
+2491,Inhibitory neuron
+2492,Inhibitory neuron
+2493,Oligodendrocyte
+2494,Microglial cell
+2495,Oligodendrocyte
+2496,Endothelial cell
+2497,Excitatory neuron
+2498,Excitatory neuron
+2499,Excitatory neuron
+2500,Oligodendrocyte
+2501,Oligodendrocyte
+2502,Excitatory neuron
+2503,Astrocyte
+2504,Excitatory neuron
+2505,Inhibitory neuron
+2506,Oligodendrocyte precursor cell
+2507,Oligodendrocyte
+2508,Excitatory neuron
+2509,Oligodendrocyte
+2510,Excitatory neuron
+2511,Inhibitory neuron
+2512,Oligodendrocyte precursor cell
+2513,Excitatory neuron
+2514,Oligodendrocyte
+2515,Excitatory neuron
+2516,Oligodendrocyte
+2517,Excitatory neuron
+2518,Inhibitory neuron
+2519,Inhibitory neuron
+2520,Oligodendrocyte
+2521,Oligodendrocyte
+2522,Excitatory neuron
+2523,Oligodendrocyte
+2524,Oligodendrocyte precursor cell
+2525,Inhibitory neuron
+2526,Excitatory neuron
+2527,Excitatory neuron
+2528,Excitatory neuron
+2529,Oligodendrocyte
+2530,Inhibitory neuron
+2531,Excitatory neuron
+2532,Inhibitory neuron
+2533,Oligodendrocyte
+2534,Excitatory neuron
+2535,Oligodendrocyte
+2536,Oligodendrocyte
+2537,Astrocyte
+2538,Astrocyte
+2539,Inhibitory neuron
+2540,Oligodendrocyte
+2541,Excitatory neuron
+2542,Excitatory neuron
+2543,Excitatory neuron
+2544,Oligodendrocyte
+2545,Oligodendrocyte
+2546,Excitatory neuron
+2547,Oligodendrocyte precursor cell
+2548,Oligodendrocyte
+2549,Oligodendrocyte
+2550,Oligodendrocyte
+2551,Excitatory neuron
+2552,Excitatory neuron
+2553,Excitatory neuron
+2554,Oligodendrocyte
+2555,Excitatory neuron
+2556,Excitatory neuron
+2557,Astrocyte
+2558,Oligodendrocyte
+2559,Excitatory neuron
+2560,Oligodendrocyte
+2561,Astrocyte
+2562,Endothelial cell
+2563,Oligodendrocyte precursor cell
+2564,Inhibitory neuron
+2565,Oligodendrocyte
+2566,Excitatory neuron
+2567,Excitatory neuron
+2568,Oligodendrocyte precursor cell
+2569,Excitatory neuron
+2570,Endothelial cell
+2571,Inhibitory neuron
+2572,Inhibitory neuron
+2573,Inhibitory neuron
+2574,Oligodendrocyte
+2575,Oligodendrocyte
+2576,Oligodendrocyte
+2577,Inhibitory neuron
+2578,Excitatory neuron
+2579,Oligodendrocyte
+2580,Astrocyte
+2581,Oligodendrocyte precursor cell
+2582,Excitatory neuron
+2583,Microglial cell
+2584,Excitatory neuron
+2585,Excitatory neuron
+2586,Excitatory neuron
+2587,Astrocyte
+2588,Excitatory neuron
+2589,Microglial cell
+2590,Excitatory neuron
+2591,Oligodendrocyte precursor cell
+2592,Excitatory neuron
+2593,Excitatory neuron
+2594,Oligodendrocyte
+2595,Inhibitory neuron
+2596,Excitatory neuron
+2597,Excitatory neuron
+2598,Excitatory neuron
+2599,Microglial cell
+2600,Excitatory neuron
+2601,Excitatory neuron
+2602,Excitatory neuron
+2603,Astrocyte
+2604,Inhibitory neuron
+2605,Inhibitory neuron
+2606,Oligodendrocyte
+2607,Inhibitory neuron
+2608,Oligodendrocyte
+2609,Excitatory neuron
+2610,Oligodendrocyte
+2611,Excitatory neuron
+2612,Inhibitory neuron
+2613,Astrocyte
+2614,Inhibitory neuron
+2615,Oligodendrocyte
+2616,Microglial cell
+2617,Excitatory neuron
+2618,Oligodendrocyte
+2619,Microglial cell
+2620,Microglial cell
+2621,Excitatory neuron
+2622,Oligodendrocyte
+2623,Excitatory neuron
+2624,Excitatory neuron
+2625,Astrocyte
+2626,Microglial cell
+2627,Excitatory neuron
+2628,Oligodendrocyte
+2629,Inhibitory neuron
+2630,Astrocyte
+2631,Oligodendrocyte
+2632,Inhibitory neuron
+2633,Oligodendrocyte
+2634,Inhibitory neuron
+2635,Excitatory neuron
+2636,Inhibitory neuron
+2637,Excitatory neuron
+2638,Excitatory neuron
+2639,Oligodendrocyte
+2640,Excitatory neuron
+2641,Oligodendrocyte
+2642,Inhibitory neuron
+2643,Excitatory neuron
+2644,Inhibitory neuron
+2645,Excitatory neuron
+2646,Inhibitory neuron
+2647,Excitatory neuron
+2648,Excitatory neuron
+2649,Oligodendrocyte
+2650,Inhibitory neuron
+2651,Inhibitory neuron
+2652,Oligodendrocyte
+2653,Oligodendrocyte precursor cell
+2654,Excitatory neuron
+2655,Oligodendrocyte
+2656,Oligodendrocyte
+2657,Inhibitory neuron
+2658,Inhibitory neuron
+2659,Oligodendrocyte precursor cell
+2660,Inhibitory neuron
+2661,Excitatory neuron
+2662,Excitatory neuron
+2663,Microglial cell
+2664,Inhibitory neuron
+2665,Excitatory neuron
+2666,Oligodendrocyte
+2667,Astrocyte
+2668,Oligodendrocyte
+2669,Astrocyte
+2670,Excitatory neuron
+2671,Oligodendrocyte
+2672,Excitatory neuron
+2673,Oligodendrocyte
+2674,Oligodendrocyte
+2675,Astrocyte
+2676,Oligodendrocyte precursor cell
+2677,Oligodendrocyte
+2678,Oligodendrocyte
+2679,Inhibitory neuron
+2680,Inhibitory neuron
+2681,Excitatory neuron
+2682,Astrocyte
+2683,Astrocyte
+2684,Microglial cell
+2685,Excitatory neuron
+2686,Excitatory neuron
+2687,Oligodendrocyte precursor cell
+2688,Excitatory neuron
+2689,Oligodendrocyte
+2690,Oligodendrocyte
+2691,Oligodendrocyte
+2692,Excitatory neuron
+2693,Oligodendrocyte
+2694,Inhibitory neuron
+2695,Oligodendrocyte
+2696,Inhibitory neuron
+2697,Oligodendrocyte
+2698,Excitatory neuron
+2699,Excitatory neuron
+2700,Excitatory neuron
+2701,Oligodendrocyte
+2702,Excitatory neuron
+2703,Excitatory neuron
+2704,Oligodendrocyte
+2705,Microglial cell
+2706,Excitatory neuron
+2707,Excitatory neuron
+2708,Oligodendrocyte
+2709,Inhibitory neuron
+2710,Excitatory neuron
+2711,Astrocyte
+2712,Inhibitory neuron
+2713,Inhibitory neuron
+2714,Excitatory neuron
+2715,Oligodendrocyte
+2716,Oligodendrocyte
+2717,Inhibitory neuron
+2718,Oligodendrocyte precursor cell
+2719,Excitatory neuron
+2720,Astrocyte
+2721,Oligodendrocyte
+2722,Inhibitory neuron
+2723,Excitatory neuron
+2724,Oligodendrocyte precursor cell
+2725,Excitatory neuron
+2726,Excitatory neuron
+2727,Oligodendrocyte precursor cell
+2728,Oligodendrocyte
+2729,Inhibitory neuron
+2730,Excitatory neuron
+2731,Inhibitory neuron
+2732,Excitatory neuron
+2733,Excitatory neuron
+2734,Oligodendrocyte precursor cell
+2735,Oligodendrocyte
+2736,Excitatory neuron
+2737,Inhibitory neuron
+2738,Microglial cell
+2739,Inhibitory neuron
+2740,Excitatory neuron
+2741,Excitatory neuron
+2742,Inhibitory neuron
+2743,Excitatory neuron
+2744,Excitatory neuron
+2745,Excitatory neuron
+2746,Inhibitory neuron
+2747,Inhibitory neuron
+2748,Excitatory neuron
+2749,Astrocyte
+2750,Oligodendrocyte
+2751,Oligodendrocyte
+2752,Excitatory neuron
+2753,Excitatory neuron
+2754,Oligodendrocyte
+2755,Inhibitory neuron
+2756,Excitatory neuron
+2757,Excitatory neuron
+2758,Oligodendrocyte
+2759,Astrocyte
+2760,Astrocyte
+2761,Inhibitory neuron
+2762,Oligodendrocyte
+2763,Astrocyte
+2764,Inhibitory neuron
+2765,Excitatory neuron
+2766,Excitatory neuron
+2767,Excitatory neuron
+2768,Excitatory neuron
+2769,Oligodendrocyte precursor cell
+2770,Inhibitory neuron
+2771,Oligodendrocyte
+2772,Excitatory neuron
+2773,Excitatory neuron
+2774,Endothelial cell
+2775,Endothelial cell
+2776,Oligodendrocyte precursor cell
+2777,Excitatory neuron
+2778,Inhibitory neuron
+2779,Astrocyte
+2780,Astrocyte
+2781,Excitatory neuron
+2782,Oligodendrocyte
+2783,Oligodendrocyte
+2784,Excitatory neuron
+2785,Oligodendrocyte
+2786,Excitatory neuron
+2787,Inhibitory neuron
+2788,Oligodendrocyte
+2789,Astrocyte
+2790,Microglial cell
+2791,Excitatory neuron
+2792,Excitatory neuron
+2793,Excitatory neuron
+2794,Excitatory neuron
+2795,Excitatory neuron
+2796,Inhibitory neuron
+2797,Excitatory neuron
+2798,Inhibitory neuron
+2799,Excitatory neuron
+2800,Oligodendrocyte precursor cell
+2801,Astrocyte
+2802,Oligodendrocyte
+2803,Oligodendrocyte
+2804,Inhibitory neuron
+2805,Excitatory neuron
+2806,Oligodendrocyte
+2807,Excitatory neuron
+2808,Astrocyte
+2809,Excitatory neuron
+2810,Excitatory neuron
+2811,Microglial cell
+2812,Oligodendrocyte
+2813,Excitatory neuron
+2814,Excitatory neuron
+2815,Microglial cell
+2816,Excitatory neuron
+2817,Oligodendrocyte
+2818,Microglial cell
+2819,Oligodendrocyte
+2820,Oligodendrocyte
+2821,Inhibitory neuron
+2822,Excitatory neuron
+2823,Oligodendrocyte precursor cell
+2824,Oligodendrocyte precursor cell
+2825,Astrocyte
+2826,Excitatory neuron
+2827,Oligodendrocyte
+2828,Astrocyte
+2829,Excitatory neuron
+2830,Excitatory neuron
+2831,Oligodendrocyte precursor cell
+2832,Oligodendrocyte
+2833,Inhibitory neuron
+2834,Oligodendrocyte
+2835,Oligodendrocyte
+2836,Oligodendrocyte
+2837,Oligodendrocyte
+2838,Excitatory neuron
+2839,Excitatory neuron
+2840,Excitatory neuron
+2841,Excitatory neuron
+2842,Astrocyte
+2843,Oligodendrocyte
+2844,Astrocyte
+2845,Microglial cell
+2846,Excitatory neuron
+2847,Excitatory neuron
+2848,Endothelial cell
+2849,Inhibitory neuron
+2850,Excitatory neuron
+2851,Oligodendrocyte
+2852,Astrocyte
+2853,Inhibitory neuron
+2854,Excitatory neuron
+2855,Inhibitory neuron
+2856,Inhibitory neuron
+2857,Inhibitory neuron
+2858,Oligodendrocyte
+2859,Oligodendrocyte precursor cell
+2860,Oligodendrocyte
+2861,Oligodendrocyte
+2862,Excitatory neuron
+2863,Oligodendrocyte precursor cell
+2864,Excitatory neuron
+2865,Astrocyte
+2866,Excitatory neuron
+2867,Excitatory neuron
+2868,Excitatory neuron
+2869,Oligodendrocyte
+2870,Excitatory neuron
+2871,Oligodendrocyte
+2872,Oligodendrocyte
+2873,Oligodendrocyte
+2874,Oligodendrocyte
+2875,Microglial cell
+2876,Astrocyte
+2877,Oligodendrocyte precursor cell
+2878,Oligodendrocyte
+2879,Microglial cell
+2880,Endothelial cell
+2881,Inhibitory neuron
+2882,Oligodendrocyte
+2883,Excitatory neuron
+2884,Excitatory neuron
+2885,Excitatory neuron
+2886,Inhibitory neuron
+2887,Inhibitory neuron
+2888,Oligodendrocyte
+2889,Oligodendrocyte
+2890,Oligodendrocyte precursor cell
+2891,Astrocyte
+2892,Inhibitory neuron
+2893,Oligodendrocyte
+2894,Astrocyte
+2895,Excitatory neuron
+2896,Excitatory neuron
+2897,Oligodendrocyte
+2898,Oligodendrocyte
+2899,Oligodendrocyte
+2900,Astrocyte
+2901,Oligodendrocyte
+2902,Inhibitory neuron
+2903,Microglial cell
+2904,Oligodendrocyte
+2905,Oligodendrocyte precursor cell
+2906,Oligodendrocyte
+2907,Oligodendrocyte
+2908,Inhibitory neuron
+2909,Astrocyte
+2910,Oligodendrocyte
+2911,Excitatory neuron
+2912,Inhibitory neuron
+2913,Astrocyte
+2914,Oligodendrocyte
+2915,Excitatory neuron
+2916,Astrocyte
+2917,Excitatory neuron
+2918,Microglial cell
+2919,Excitatory neuron
+2920,Astrocyte
+2921,Inhibitory neuron
+2922,Astrocyte
+2923,Excitatory neuron
+2924,Inhibitory neuron
+2925,Inhibitory neuron
+2926,Excitatory neuron
+2927,Excitatory neuron
+2928,Oligodendrocyte
+2929,Oligodendrocyte
+2930,Oligodendrocyte
+2931,Oligodendrocyte precursor cell
+2932,Excitatory neuron
+2933,Excitatory neuron
+2934,Inhibitory neuron
+2935,Oligodendrocyte
+2936,Oligodendrocyte
+2937,Inhibitory neuron
+2938,Excitatory neuron
+2939,Excitatory neuron
+2940,Microglial cell
+2941,Inhibitory neuron
+2942,Inhibitory neuron
+2943,Oligodendrocyte
+2944,Excitatory neuron
+2945,Excitatory neuron
+2946,Excitatory neuron
+2947,Excitatory neuron
+2948,Microglial cell
+2949,Oligodendrocyte
+2950,Excitatory neuron
+2951,Oligodendrocyte
+2952,Oligodendrocyte
+2953,Oligodendrocyte
+2954,Oligodendrocyte
+2955,Excitatory neuron
+2956,Excitatory neuron
+2957,Microglial cell
+2958,Astrocyte
+2959,Excitatory neuron
+2960,Excitatory neuron
+2961,Astrocyte
+2962,Oligodendrocyte
+2963,Inhibitory neuron
+2964,Excitatory neuron
+2965,Excitatory neuron
+2966,Oligodendrocyte
+2967,Inhibitory neuron
+2968,Oligodendrocyte
+2969,Excitatory neuron
+2970,Excitatory neuron
+2971,Inhibitory neuron
+2972,Oligodendrocyte precursor cell
+2973,Excitatory neuron
+2974,Excitatory neuron
+2975,Excitatory neuron
+2976,Oligodendrocyte
+2977,Excitatory neuron
+2978,Excitatory neuron
+2979,Excitatory neuron
+2980,Excitatory neuron
+2981,Oligodendrocyte
+2982,Astrocyte
+2983,Astrocyte
+2984,Excitatory neuron
+2985,Oligodendrocyte
+2986,Microglial cell
+2987,Inhibitory neuron
+2988,Astrocyte
+2989,Microglial cell
+2990,Excitatory neuron
+2991,Oligodendrocyte
+2992,Inhibitory neuron
+2993,Excitatory neuron
+2994,Excitatory neuron
+2995,Excitatory neuron
+2996,Inhibitory neuron
+2997,Excitatory neuron
+2998,Microglial cell
+2999,Oligodendrocyte
+3000,Astrocyte
+3001,Microglial cell
+3002,Excitatory neuron
+3003,Oligodendrocyte
+3004,Inhibitory neuron
+3005,Excitatory neuron
+3006,Oligodendrocyte
+3007,Astrocyte
+3008,Inhibitory neuron
+3009,Oligodendrocyte
+3010,Endothelial cell
+3011,Oligodendrocyte precursor cell
+3012,Excitatory neuron
+3013,Inhibitory neuron
+3014,Oligodendrocyte
+3015,Excitatory neuron
+3016,Excitatory neuron
+3017,Oligodendrocyte
+3018,Excitatory neuron
+3019,Microglial cell
+3020,Oligodendrocyte
+3021,Oligodendrocyte
+3022,Excitatory neuron
+3023,Astrocyte
+3024,Oligodendrocyte
+3025,Excitatory neuron
+3026,Oligodendrocyte
+3027,Inhibitory neuron
+3028,Oligodendrocyte
+3029,Inhibitory neuron
+3030,Oligodendrocyte
+3031,Astrocyte
+3032,Excitatory neuron
+3033,Oligodendrocyte
+3034,Inhibitory neuron
+3035,Oligodendrocyte
+3036,Oligodendrocyte
+3037,Microglial cell
+3038,Astrocyte
+3039,Excitatory neuron
+3040,Excitatory neuron
+3041,Excitatory neuron
+3042,Excitatory neuron
+3043,Astrocyte
+3044,Excitatory neuron
+3045,Excitatory neuron
+3046,Astrocyte
+3047,Oligodendrocyte
+3048,Oligodendrocyte
+3049,Oligodendrocyte
+3050,Inhibitory neuron
+3051,Oligodendrocyte
+3052,Excitatory neuron
+3053,Excitatory neuron
+3054,Inhibitory neuron
+3055,Oligodendrocyte
+3056,Excitatory neuron
+3057,Excitatory neuron
+3058,Excitatory neuron
+3059,Oligodendrocyte
+3060,Oligodendrocyte
+3061,Excitatory neuron
+3062,Astrocyte
+3063,Inhibitory neuron
+3064,Excitatory neuron
+3065,Oligodendrocyte
+3066,Microglial cell
+3067,Oligodendrocyte
+3068,Oligodendrocyte precursor cell
+3069,Excitatory neuron
+3070,Oligodendrocyte
+3071,Oligodendrocyte
+3072,Astrocyte
+3073,Microglial cell
+3074,Excitatory neuron
+3075,Oligodendrocyte precursor cell
+3076,Inhibitory neuron
+3077,Oligodendrocyte
+3078,Oligodendrocyte
+3079,Oligodendrocyte precursor cell
+3080,Excitatory neuron
+3081,Oligodendrocyte
+3082,Oligodendrocyte
+3083,Oligodendrocyte
+3084,Excitatory neuron
+3085,Excitatory neuron
+3086,Microglial cell
+3087,Oligodendrocyte precursor cell
+3088,Microglial cell
+3089,Oligodendrocyte precursor cell
+3090,Astrocyte
+3091,Oligodendrocyte
+3092,Astrocyte
+3093,Astrocyte
+3094,Excitatory neuron
+3095,Astrocyte
+3096,Oligodendrocyte
+3097,Excitatory neuron
+3098,Inhibitory neuron
+3099,Microglial cell
+3100,Oligodendrocyte precursor cell
+3101,Oligodendrocyte
+3102,Astrocyte
+3103,Inhibitory neuron
+3104,Excitatory neuron
+3105,Excitatory neuron
+3106,Inhibitory neuron
+3107,Excitatory neuron
+3108,Oligodendrocyte precursor cell
+3109,Inhibitory neuron
+3110,Excitatory neuron
+3111,Inhibitory neuron
+3112,Excitatory neuron
+3113,Excitatory neuron
+3114,Excitatory neuron
+3115,Endothelial cell
+3116,Oligodendrocyte
+3117,Oligodendrocyte
+3118,Astrocyte
+3119,Astrocyte
+3120,Oligodendrocyte
+3121,Oligodendrocyte
+3122,Inhibitory neuron
+3123,Oligodendrocyte
+3124,Excitatory neuron
+3125,Excitatory neuron
+3126,Excitatory neuron
+3127,Inhibitory neuron
+3128,Astrocyte
+3129,Endothelial cell
+3130,Excitatory neuron
+3131,Oligodendrocyte
+3132,Oligodendrocyte
+3133,Inhibitory neuron
+3134,Excitatory neuron
+3135,Excitatory neuron
+3136,Microglial cell
+3137,Oligodendrocyte
+3138,Excitatory neuron
+3139,Oligodendrocyte
+3140,Astrocyte
+3141,Excitatory neuron
+3142,Inhibitory neuron
+3143,Oligodendrocyte
+3144,Excitatory neuron
+3145,Excitatory neuron
+3146,Excitatory neuron
+3147,Oligodendrocyte
+3148,Astrocyte
+3149,Excitatory neuron
+3150,Excitatory neuron
+3151,Inhibitory neuron
+3152,Excitatory neuron
+3153,Oligodendrocyte
+3154,Inhibitory neuron
+3155,Excitatory neuron
+3156,Oligodendrocyte
+3157,Oligodendrocyte
+3158,Astrocyte
+3159,Excitatory neuron
+3160,Astrocyte
+3161,Excitatory neuron
+3162,Oligodendrocyte precursor cell
+3163,Oligodendrocyte
+3164,Astrocyte
+3165,Oligodendrocyte
+3166,Excitatory neuron
+3167,Excitatory neuron
+3168,Excitatory neuron
+3169,Excitatory neuron
+3170,Excitatory neuron
+3171,Astrocyte
+3172,Astrocyte
+3173,Excitatory neuron
+3174,Excitatory neuron
+3175,Excitatory neuron
+3176,Oligodendrocyte
+3177,Inhibitory neuron
+3178,Excitatory neuron
+3179,Astrocyte
+3180,Astrocyte
+3181,Astrocyte
+3182,Inhibitory neuron
+3183,Excitatory neuron
+3184,Microglial cell
+3185,Astrocyte
+3186,Microglial cell
+3187,Excitatory neuron
+3188,Excitatory neuron
+3189,Oligodendrocyte
+3190,Excitatory neuron
+3191,Oligodendrocyte
+3192,Excitatory neuron
+3193,Astrocyte
+3194,Excitatory neuron
+3195,Oligodendrocyte
+3196,Oligodendrocyte precursor cell
+3197,Excitatory neuron
+3198,Oligodendrocyte
+3199,Excitatory neuron
+3200,Oligodendrocyte
+3201,Excitatory neuron
+3202,Oligodendrocyte
+3203,Oligodendrocyte precursor cell
+3204,Oligodendrocyte
+3205,Excitatory neuron
+3206,Oligodendrocyte
+3207,Astrocyte
+3208,Excitatory neuron
+3209,Inhibitory neuron
+3210,Oligodendrocyte precursor cell
+3211,Oligodendrocyte
+3212,Excitatory neuron
+3213,Oligodendrocyte
+3214,Excitatory neuron
+3215,Excitatory neuron
+3216,Excitatory neuron
+3217,Oligodendrocyte
+3218,Oligodendrocyte
+3219,Excitatory neuron
+3220,Excitatory neuron
+3221,Oligodendrocyte
+3222,Excitatory neuron
+3223,Oligodendrocyte
+3224,Inhibitory neuron
+3225,Excitatory neuron
+3226,Astrocyte
+3227,Inhibitory neuron
+3228,Excitatory neuron
+3229,Excitatory neuron
+3230,Microglial cell
+3231,Excitatory neuron
+3232,Oligodendrocyte
+3233,Excitatory neuron
+3234,Excitatory neuron
+3235,Excitatory neuron
+3236,Excitatory neuron
+3237,Oligodendrocyte
+3238,Microglial cell
+3239,Astrocyte
+3240,Excitatory neuron
+3241,Oligodendrocyte
+3242,Astrocyte
+3243,Oligodendrocyte precursor cell
+3244,Excitatory neuron
+3245,Excitatory neuron
+3246,Astrocyte
+3247,Oligodendrocyte
+3248,Excitatory neuron
+3249,Excitatory neuron
+3250,Excitatory neuron
+3251,Oligodendrocyte precursor cell
+3252,Oligodendrocyte
+3253,Oligodendrocyte precursor cell
+3254,Excitatory neuron
+3255,Excitatory neuron
+3256,Oligodendrocyte
+3257,Oligodendrocyte
+3258,Oligodendrocyte
+3259,Excitatory neuron
+3260,Excitatory neuron
+3261,Excitatory neuron
+3262,Oligodendrocyte
+3263,Excitatory neuron
+3264,Astrocyte
+3265,Microglial cell
+3266,Oligodendrocyte
+3267,Astrocyte
+3268,Astrocyte
+3269,Excitatory neuron
+3270,Oligodendrocyte
+3271,Excitatory neuron
+3272,Astrocyte
+3273,Oligodendrocyte
+3274,Inhibitory neuron
+3275,Oligodendrocyte precursor cell
+3276,Inhibitory neuron
+3277,Oligodendrocyte
+3278,Oligodendrocyte
+3279,Astrocyte
+3280,Oligodendrocyte
+3281,Endothelial cell
+3282,Excitatory neuron
+3283,Excitatory neuron
+3284,Astrocyte
+3285,Excitatory neuron
+3286,Astrocyte
+3287,Oligodendrocyte
+3288,Inhibitory neuron
+3289,Inhibitory neuron
+3290,Inhibitory neuron
+3291,Inhibitory neuron
+3292,Oligodendrocyte
+3293,Inhibitory neuron
+3294,Excitatory neuron
+3295,Oligodendrocyte
+3296,Oligodendrocyte
+3297,Oligodendrocyte
+3298,Excitatory neuron
+3299,Excitatory neuron
+3300,Oligodendrocyte
+3301,Astrocyte
+3302,Inhibitory neuron
+3303,Oligodendrocyte precursor cell
+3304,Excitatory neuron
+3305,Oligodendrocyte
+3306,Excitatory neuron
+3307,Oligodendrocyte
+3308,Oligodendrocyte
+3309,Excitatory neuron
+3310,Oligodendrocyte precursor cell
+3311,Endothelial cell
+3312,Oligodendrocyte
+3313,Microglial cell
+3314,Excitatory neuron
+3315,Inhibitory neuron
+3316,Microglial cell
+3317,Astrocyte
+3318,Oligodendrocyte
+3319,Excitatory neuron
+3320,Excitatory neuron
+3321,Oligodendrocyte
+3322,Excitatory neuron
+3323,Inhibitory neuron
+3324,Excitatory neuron
+3325,Astrocyte
+3326,Excitatory neuron
+3327,Excitatory neuron
+3328,Excitatory neuron
+3329,Endothelial cell
+3330,Oligodendrocyte
+3331,Inhibitory neuron
+3332,Inhibitory neuron
+3333,Inhibitory neuron
+3334,Excitatory neuron
+3335,Astrocyte
+3336,Excitatory neuron
+3337,Excitatory neuron
+3338,Astrocyte
+3339,Oligodendrocyte
+3340,Astrocyte
+3341,Oligodendrocyte
+3342,Excitatory neuron
+3343,Oligodendrocyte precursor cell
+3344,Astrocyte
+3345,Oligodendrocyte
+3346,Oligodendrocyte
+3347,Endothelial cell
+3348,Inhibitory neuron
+3349,Oligodendrocyte
+3350,Microglial cell
+3351,Excitatory neuron
+3352,Excitatory neuron
+3353,Oligodendrocyte
+3354,Oligodendrocyte
+3355,Astrocyte
+3356,Oligodendrocyte
+3357,Oligodendrocyte
+3358,Excitatory neuron
+3359,Inhibitory neuron
+3360,Excitatory neuron
+3361,Excitatory neuron
+3362,Oligodendrocyte
+3363,Inhibitory neuron
+3364,Oligodendrocyte precursor cell
+3365,Microglial cell
+3366,Excitatory neuron
+3367,Astrocyte
+3368,Excitatory neuron
+3369,Inhibitory neuron
+3370,Excitatory neuron
+3371,Oligodendrocyte
+3372,Microglial cell
+3373,Oligodendrocyte
+3374,Excitatory neuron
+3375,Inhibitory neuron
+3376,Inhibitory neuron
+3377,Astrocyte
+3378,Astrocyte
+3379,Excitatory neuron
+3380,Oligodendrocyte
+3381,Astrocyte
+3382,Excitatory neuron
+3383,Excitatory neuron
+3384,Oligodendrocyte
+3385,Oligodendrocyte
+3386,Oligodendrocyte
+3387,Inhibitory neuron
+3388,Excitatory neuron
+3389,Excitatory neuron
+3390,Inhibitory neuron
+3391,Oligodendrocyte
+3392,Astrocyte
+3393,Oligodendrocyte
+3394,Inhibitory neuron
+3395,Excitatory neuron
+3396,Oligodendrocyte
+3397,Oligodendrocyte
+3398,Excitatory neuron
+3399,Excitatory neuron
+3400,Excitatory neuron
+3401,Astrocyte
+3402,Inhibitory neuron
+3403,Astrocyte
+3404,Inhibitory neuron
+3405,Inhibitory neuron
+3406,Inhibitory neuron
+3407,Microglial cell
+3408,Excitatory neuron
+3409,Inhibitory neuron
+3410,Inhibitory neuron
+3411,Astrocyte
+3412,Oligodendrocyte precursor cell
+3413,Excitatory neuron
+3414,Excitatory neuron
+3415,Inhibitory neuron
+3416,Astrocyte
+3417,Oligodendrocyte
+3418,Inhibitory neuron
+3419,Oligodendrocyte
+3420,Excitatory neuron
+3421,Excitatory neuron
+3422,Excitatory neuron
+3423,Oligodendrocyte
+3424,Inhibitory neuron
+3425,Microglial cell
+3426,Excitatory neuron
+3427,Inhibitory neuron
+3428,Astrocyte
+3429,Oligodendrocyte
+3430,Astrocyte
+3431,Excitatory neuron
+3432,Inhibitory neuron
+3433,Inhibitory neuron
+3434,Excitatory neuron
+3435,Oligodendrocyte
+3436,Excitatory neuron
+3437,Oligodendrocyte
+3438,Excitatory neuron
+3439,Excitatory neuron
+3440,Astrocyte
+3441,Excitatory neuron
+3442,Oligodendrocyte precursor cell
+3443,Astrocyte
+3444,Oligodendrocyte
+3445,Excitatory neuron
+3446,Excitatory neuron
+3447,Microglial cell
+3448,Inhibitory neuron
+3449,Oligodendrocyte
+3450,Excitatory neuron
+3451,Oligodendrocyte
+3452,Inhibitory neuron
+3453,Excitatory neuron
+3454,Oligodendrocyte
+3455,Astrocyte
+3456,Oligodendrocyte precursor cell
+3457,Excitatory neuron
+3458,Microglial cell
+3459,Oligodendrocyte
+3460,Astrocyte
+3461,Inhibitory neuron
+3462,Inhibitory neuron
+3463,Excitatory neuron
+3464,Excitatory neuron
+3465,Oligodendrocyte
+3466,Excitatory neuron
+3467,Oligodendrocyte
+3468,Astrocyte
+3469,Oligodendrocyte precursor cell
+3470,Astrocyte
+3471,Microglial cell
+3472,Excitatory neuron
+3473,Excitatory neuron
+3474,Oligodendrocyte
+3475,Inhibitory neuron
+3476,Oligodendrocyte
+3477,Oligodendrocyte
+3478,Oligodendrocyte
+3479,Astrocyte
+3480,Inhibitory neuron
+3481,Oligodendrocyte
+3482,Excitatory neuron
+3483,Excitatory neuron
+3484,Oligodendrocyte
+3485,Excitatory neuron
+3486,Oligodendrocyte precursor cell
+3487,Oligodendrocyte
+3488,Astrocyte
+3489,Excitatory neuron
+3490,Excitatory neuron
+3491,Excitatory neuron
+3492,Oligodendrocyte
+3493,Oligodendrocyte
+3494,Oligodendrocyte
+3495,Excitatory neuron
+3496,Oligodendrocyte
+3497,Excitatory neuron
+3498,Astrocyte
+3499,Microglial cell
+3500,Excitatory neuron
+3501,Microglial cell
+3502,Oligodendrocyte precursor cell
+3503,Excitatory neuron
+3504,Astrocyte
+3505,Oligodendrocyte
+3506,Oligodendrocyte precursor cell
+3507,Inhibitory neuron
+3508,Excitatory neuron
+3509,Excitatory neuron
+3510,Oligodendrocyte
+3511,Astrocyte
+3512,Inhibitory neuron
+3513,Excitatory neuron
+3514,Oligodendrocyte
+3515,Excitatory neuron
+3516,Astrocyte
+3517,Excitatory neuron
+3518,Astrocyte
+3519,Excitatory neuron
+3520,Excitatory neuron
+3521,Oligodendrocyte
+3522,Astrocyte
+3523,Oligodendrocyte
+3524,Excitatory neuron
+3525,Astrocyte
+3526,Oligodendrocyte
+3527,Oligodendrocyte
+3528,Astrocyte
+3529,Astrocyte
+3530,Inhibitory neuron
+3531,Oligodendrocyte
+3532,Excitatory neuron
+3533,Microglial cell
+3534,Oligodendrocyte precursor cell
+3535,Oligodendrocyte precursor cell
+3536,Astrocyte
+3537,Excitatory neuron
+3538,Astrocyte
+3539,Oligodendrocyte
+3540,Excitatory neuron
+3541,Excitatory neuron
+3542,Inhibitory neuron
+3543,Excitatory neuron
+3544,Inhibitory neuron
+3545,Oligodendrocyte precursor cell
+3546,Oligodendrocyte
+3547,Oligodendrocyte
+3548,Excitatory neuron
+3549,Oligodendrocyte
+3550,Oligodendrocyte
+3551,Oligodendrocyte
+3552,Excitatory neuron
+3553,Excitatory neuron
+3554,Oligodendrocyte precursor cell
+3555,Oligodendrocyte
+3556,Excitatory neuron
+3557,Microglial cell
+3558,Astrocyte
+3559,Oligodendrocyte
+3560,Excitatory neuron
+3561,Astrocyte
+3562,Astrocyte
+3563,Oligodendrocyte
+3564,Microglial cell
+3565,Excitatory neuron
+3566,Oligodendrocyte
+3567,Inhibitory neuron
+3568,Oligodendrocyte
+3569,Excitatory neuron
+3570,Inhibitory neuron
+3571,Astrocyte
+3572,Excitatory neuron
+3573,Inhibitory neuron
+3574,Excitatory neuron
+3575,Oligodendrocyte
+3576,Astrocyte
+3577,Excitatory neuron
+3578,Excitatory neuron
+3579,Oligodendrocyte
+3580,Inhibitory neuron
+3581,Excitatory neuron
+3582,Excitatory neuron
+3583,Excitatory neuron
+3584,Oligodendrocyte precursor cell
+3585,Microglial cell
+3586,Oligodendrocyte
+3587,Oligodendrocyte
+3588,Inhibitory neuron
+3589,Oligodendrocyte
+3590,Excitatory neuron
+3591,Astrocyte
+3592,Microglial cell
+3593,Microglial cell
+3594,Inhibitory neuron
+3595,Inhibitory neuron
+3596,Astrocyte
+3597,Excitatory neuron
+3598,Excitatory neuron
+3599,Excitatory neuron
+3600,Astrocyte
+3601,Excitatory neuron
+3602,Excitatory neuron
+3603,Oligodendrocyte precursor cell
+3604,Inhibitory neuron
+3605,Oligodendrocyte precursor cell
+3606,Astrocyte
+3607,Oligodendrocyte
+3608,Excitatory neuron
+3609,Excitatory neuron
+3610,Excitatory neuron
+3611,Oligodendrocyte
+3612,Excitatory neuron
+3613,Excitatory neuron
+3614,Excitatory neuron
+3615,Inhibitory neuron
+3616,Oligodendrocyte
+3617,Oligodendrocyte precursor cell
+3618,Excitatory neuron
+3619,Inhibitory neuron
+3620,Oligodendrocyte
+3621,Excitatory neuron
+3622,Excitatory neuron
+3623,Excitatory neuron
+3624,Oligodendrocyte
+3625,Inhibitory neuron
+3626,Oligodendrocyte
+3627,Oligodendrocyte
+3628,Oligodendrocyte
+3629,Microglial cell
+3630,Astrocyte
+3631,Excitatory neuron
+3632,Excitatory neuron
+3633,Astrocyte
+3634,Excitatory neuron
+3635,Excitatory neuron
+3636,Excitatory neuron
+3637,Excitatory neuron
+3638,Excitatory neuron
+3639,Excitatory neuron
+3640,Excitatory neuron
+3641,Inhibitory neuron
+3642,Oligodendrocyte
+3643,Excitatory neuron
+3644,Oligodendrocyte
+3645,Astrocyte
+3646,Oligodendrocyte
+3647,Oligodendrocyte precursor cell
+3648,Excitatory neuron
+3649,Inhibitory neuron
+3650,Oligodendrocyte
+3651,Excitatory neuron
+3652,Oligodendrocyte
+3653,Astrocyte
+3654,Excitatory neuron
+3655,Inhibitory neuron
+3656,Excitatory neuron
+3657,Excitatory neuron
+3658,Excitatory neuron
+3659,Oligodendrocyte precursor cell
+3660,Excitatory neuron
+3661,Oligodendrocyte precursor cell
+3662,Oligodendrocyte precursor cell
+3663,Astrocyte
+3664,Astrocyte
+3665,Excitatory neuron
+3666,Inhibitory neuron
+3667,Oligodendrocyte
+3668,Microglial cell
+3669,Oligodendrocyte
+3670,Oligodendrocyte
+3671,Oligodendrocyte
+3672,Excitatory neuron
+3673,Inhibitory neuron
+3674,Inhibitory neuron
+3675,Oligodendrocyte
+3676,Excitatory neuron
+3677,Excitatory neuron
+3678,Inhibitory neuron
+3679,Excitatory neuron
+3680,Microglial cell
+3681,Oligodendrocyte
+3682,Oligodendrocyte
+3683,Astrocyte
+3684,Excitatory neuron
+3685,Inhibitory neuron
+3686,Excitatory neuron
+3687,Excitatory neuron
+3688,Inhibitory neuron
+3689,Excitatory neuron
+3690,Oligodendrocyte
+3691,Excitatory neuron
+3692,Excitatory neuron
+3693,Excitatory neuron
+3694,Microglial cell
+3695,Oligodendrocyte precursor cell
+3696,Astrocyte
+3697,Excitatory neuron
+3698,Oligodendrocyte
+3699,Oligodendrocyte
+3700,Oligodendrocyte
+3701,Oligodendrocyte
+3702,Oligodendrocyte precursor cell
+3703,Inhibitory neuron
+3704,Inhibitory neuron
+3705,Oligodendrocyte
+3706,Astrocyte
+3707,Astrocyte
+3708,Microglial cell
+3709,Oligodendrocyte
+3710,Excitatory neuron
+3711,Oligodendrocyte
+3712,Oligodendrocyte precursor cell
+3713,Oligodendrocyte
+3714,Excitatory neuron
+3715,Excitatory neuron
+3716,Excitatory neuron
+3717,Oligodendrocyte
+3718,Excitatory neuron
+3719,Excitatory neuron
+3720,Excitatory neuron
+3721,Inhibitory neuron
+3722,Microglial cell
+3723,Oligodendrocyte
+3724,Excitatory neuron
+3725,Excitatory neuron
+3726,Excitatory neuron
+3727,Oligodendrocyte
+3728,Oligodendrocyte
+3729,Oligodendrocyte
+3730,Microglial cell
+3731,Astrocyte
+3732,Astrocyte
+3733,Excitatory neuron
+3734,Excitatory neuron
+3735,Astrocyte
+3736,Oligodendrocyte
+3737,Inhibitory neuron
+3738,Oligodendrocyte
+3739,Oligodendrocyte precursor cell
+3740,Oligodendrocyte
+3741,Oligodendrocyte
+3742,Oligodendrocyte precursor cell
+3743,Excitatory neuron
+3744,Oligodendrocyte
+3745,Excitatory neuron
+3746,Excitatory neuron
+3747,Astrocyte
+3748,Excitatory neuron
+3749,Microglial cell
+3750,Microglial cell
+3751,Inhibitory neuron
+3752,Oligodendrocyte
+3753,Inhibitory neuron
+3754,Excitatory neuron
+3755,Inhibitory neuron
+3756,Microglial cell
+3757,Oligodendrocyte
+3758,Oligodendrocyte
+3759,Microglial cell
+3760,Oligodendrocyte
+3761,Excitatory neuron
+3762,Excitatory neuron
+3763,Excitatory neuron
+3764,Excitatory neuron
+3765,Oligodendrocyte
+3766,Oligodendrocyte
+3767,Inhibitory neuron
+3768,Oligodendrocyte
+3769,Excitatory neuron
+3770,Astrocyte
+3771,Endothelial cell
+3772,Oligodendrocyte
+3773,Oligodendrocyte
+3774,Oligodendrocyte
+3775,Oligodendrocyte
+3776,Inhibitory neuron
+3777,Excitatory neuron
+3778,Oligodendrocyte
+3779,Oligodendrocyte
+3780,Inhibitory neuron
+3781,Excitatory neuron
+3782,Endothelial cell
+3783,Inhibitory neuron
+3784,Excitatory neuron
+3785,Excitatory neuron
+3786,Inhibitory neuron
+3787,Excitatory neuron
+3788,Excitatory neuron
+3789,Inhibitory neuron
+3790,Excitatory neuron
+3791,Oligodendrocyte
+3792,Microglial cell
+3793,Inhibitory neuron
+3794,Astrocyte
+3795,Oligodendrocyte
+3796,Excitatory neuron
+3797,Excitatory neuron
+3798,Astrocyte
+3799,Excitatory neuron
+3800,Excitatory neuron
+3801,Microglial cell
+3802,Oligodendrocyte precursor cell
+3803,Oligodendrocyte precursor cell
+3804,Oligodendrocyte
+3805,Excitatory neuron
+3806,Oligodendrocyte
+3807,Oligodendrocyte
+3808,Inhibitory neuron
+3809,Oligodendrocyte
+3810,Excitatory neuron
+3811,Excitatory neuron
+3812,Astrocyte
+3813,Inhibitory neuron
+3814,Excitatory neuron
+3815,Inhibitory neuron
+3816,Excitatory neuron
+3817,Oligodendrocyte
+3818,Oligodendrocyte
+3819,Oligodendrocyte
+3820,Oligodendrocyte
+3821,Inhibitory neuron
+3822,Oligodendrocyte precursor cell
+3823,Endothelial cell
+3824,Oligodendrocyte
+3825,Oligodendrocyte
+3826,Oligodendrocyte
+3827,Excitatory neuron
+3828,Inhibitory neuron
+3829,Oligodendrocyte
+3830,Oligodendrocyte
+3831,Oligodendrocyte
+3832,Excitatory neuron
+3833,Excitatory neuron
+3834,Microglial cell
+3835,Excitatory neuron
+3836,Excitatory neuron
+3837,Microglial cell
+3838,Excitatory neuron
+3839,Inhibitory neuron
+3840,Oligodendrocyte
+3841,Oligodendrocyte
+3842,Oligodendrocyte
+3843,Oligodendrocyte
+3844,Astrocyte
+3845,Oligodendrocyte
+3846,Excitatory neuron
+3847,Inhibitory neuron
+3848,Oligodendrocyte
+3849,Excitatory neuron
+3850,Oligodendrocyte
+3851,Oligodendrocyte
+3852,Oligodendrocyte
+3853,Inhibitory neuron
+3854,Inhibitory neuron
+3855,Excitatory neuron
+3856,Oligodendrocyte
+3857,Oligodendrocyte
+3858,Endothelial cell
+3859,Excitatory neuron
+3860,Excitatory neuron
+3861,Astrocyte
+3862,Microglial cell
+3863,Excitatory neuron
+3864,Oligodendrocyte
+3865,Excitatory neuron
+3866,Excitatory neuron
+3867,Oligodendrocyte
+3868,Astrocyte
+3869,Oligodendrocyte
+3870,Oligodendrocyte
+3871,Excitatory neuron
+3872,Excitatory neuron
+3873,Excitatory neuron
+3874,Excitatory neuron
+3875,Oligodendrocyte
+3876,Excitatory neuron
+3877,Oligodendrocyte precursor cell
+3878,Excitatory neuron
+3879,Oligodendrocyte
+3880,Oligodendrocyte
+3881,Excitatory neuron
+3882,Excitatory neuron
+3883,Oligodendrocyte precursor cell
+3884,Astrocyte
+3885,Inhibitory neuron
+3886,Inhibitory neuron
+3887,Microglial cell
+3888,Oligodendrocyte
+3889,Oligodendrocyte
+3890,Oligodendrocyte
+3891,Excitatory neuron
+3892,Oligodendrocyte
+3893,Oligodendrocyte
+3894,Astrocyte
+3895,Excitatory neuron
+3896,Oligodendrocyte
+3897,Oligodendrocyte
+3898,Astrocyte
+3899,Excitatory neuron
+3900,Oligodendrocyte
+3901,Excitatory neuron
+3902,Excitatory neuron
+3903,Oligodendrocyte
+3904,Oligodendrocyte
+3905,Microglial cell
+3906,Excitatory neuron
+3907,Excitatory neuron
+3908,Excitatory neuron
+3909,Oligodendrocyte
+3910,Oligodendrocyte
+3911,Oligodendrocyte precursor cell
+3912,Astrocyte
+3913,Excitatory neuron
+3914,Inhibitory neuron
+3915,Oligodendrocyte
+3916,Oligodendrocyte precursor cell
+3917,Oligodendrocyte
+3918,Oligodendrocyte
+3919,Inhibitory neuron
+3920,Excitatory neuron
+3921,Oligodendrocyte
+3922,Oligodendrocyte precursor cell
+3923,Excitatory neuron
+3924,Microglial cell
+3925,Microglial cell
+3926,Oligodendrocyte
+3927,Excitatory neuron
+3928,Excitatory neuron
+3929,Oligodendrocyte
+3930,Endothelial cell
+3931,Excitatory neuron
+3932,Astrocyte
+3933,Endothelial cell
+3934,Oligodendrocyte
+3935,Inhibitory neuron
+3936,Excitatory neuron
+3937,Excitatory neuron
+3938,Excitatory neuron
+3939,Microglial cell
+3940,Oligodendrocyte
+3941,Oligodendrocyte
+3942,Astrocyte
+3943,Oligodendrocyte precursor cell
+3944,Excitatory neuron
+3945,Inhibitory neuron
+3946,Excitatory neuron
+3947,Excitatory neuron
+3948,Oligodendrocyte
+3949,Inhibitory neuron
+3950,Inhibitory neuron
+3951,Excitatory neuron
+3952,Inhibitory neuron
+3953,Excitatory neuron
+3954,Excitatory neuron
+3955,Oligodendrocyte
+3956,Excitatory neuron
+3957,Oligodendrocyte
+3958,Oligodendrocyte
+3959,Oligodendrocyte precursor cell
+3960,Excitatory neuron
+3961,Oligodendrocyte
+3962,Astrocyte
+3963,Inhibitory neuron
+3964,Microglial cell
+3965,Excitatory neuron
+3966,Microglial cell
+3967,Microglial cell
+3968,Excitatory neuron
+3969,Oligodendrocyte precursor cell
+3970,Oligodendrocyte
+3971,Excitatory neuron
+3972,Oligodendrocyte
+3973,Astrocyte
+3974,Microglial cell
+3975,Inhibitory neuron
+3976,Excitatory neuron
+3977,Oligodendrocyte
+3978,Astrocyte
+3979,Oligodendrocyte
+3980,Oligodendrocyte precursor cell
+3981,Excitatory neuron
+3982,Excitatory neuron
+3983,Oligodendrocyte
+3984,Oligodendrocyte
+3985,Oligodendrocyte
+3986,Inhibitory neuron
+3987,Excitatory neuron
+3988,Astrocyte
+3989,Oligodendrocyte
+3990,Astrocyte
+3991,Excitatory neuron
+3992,Excitatory neuron
+3993,Astrocyte
+3994,Oligodendrocyte
+3995,Oligodendrocyte
+3996,Oligodendrocyte
+3997,Excitatory neuron
+3998,Excitatory neuron
+3999,Excitatory neuron
+4000,Excitatory neuron
+4001,Excitatory neuron
+4002,Excitatory neuron
+4003,Oligodendrocyte
+4004,Oligodendrocyte
+4005,Inhibitory neuron
+4006,Excitatory neuron
+4007,Excitatory neuron
+4008,Oligodendrocyte
+4009,Oligodendrocyte
+4010,Excitatory neuron
+4011,Astrocyte
+4012,Excitatory neuron
+4013,Excitatory neuron
+4014,Excitatory neuron
+4015,Oligodendrocyte
+4016,Oligodendrocyte
+4017,Oligodendrocyte
+4018,Astrocyte
+4019,Excitatory neuron
+4020,Oligodendrocyte
+4021,Astrocyte
+4022,Oligodendrocyte
+4023,Excitatory neuron
+4024,Excitatory neuron
+4025,Inhibitory neuron
+4026,Inhibitory neuron
+4027,Excitatory neuron
+4028,Excitatory neuron
+4029,Oligodendrocyte
+4030,Oligodendrocyte precursor cell
+4031,Oligodendrocyte
+4032,Excitatory neuron
+4033,Inhibitory neuron
+4034,Excitatory neuron
+4035,Oligodendrocyte
+4036,Astrocyte
+4037,Excitatory neuron
+4038,Excitatory neuron
+4039,Oligodendrocyte precursor cell
+4040,Astrocyte
+4041,Excitatory neuron
+4042,Oligodendrocyte
+4043,Astrocyte
+4044,Astrocyte
+4045,Microglial cell
+4046,Excitatory neuron
+4047,Astrocyte
+4048,Excitatory neuron
+4049,Excitatory neuron
+4050,Excitatory neuron
+4051,Excitatory neuron
+4052,Inhibitory neuron
+4053,Microglial cell
+4054,Oligodendrocyte
+4055,Oligodendrocyte precursor cell
+4056,Astrocyte
+4057,Inhibitory neuron
+4058,Excitatory neuron
+4059,Excitatory neuron
+4060,Astrocyte
+4061,Excitatory neuron
+4062,Excitatory neuron
+4063,Astrocyte
+4064,Excitatory neuron
+4065,Oligodendrocyte
+4066,Excitatory neuron
+4067,Astrocyte
+4068,Inhibitory neuron
+4069,Inhibitory neuron
+4070,Excitatory neuron
+4071,Oligodendrocyte precursor cell
+4072,Inhibitory neuron
+4073,Excitatory neuron
+4074,Astrocyte
+4075,Excitatory neuron
+4076,Excitatory neuron
+4077,Oligodendrocyte
+4078,Excitatory neuron
+4079,Oligodendrocyte
+4080,Oligodendrocyte
+4081,Microglial cell
+4082,Astrocyte
+4083,Astrocyte
+4084,Astrocyte
+4085,Oligodendrocyte precursor cell
+4086,Inhibitory neuron
+4087,Excitatory neuron
+4088,Oligodendrocyte
+4089,Inhibitory neuron
+4090,Excitatory neuron
+4091,Astrocyte
+4092,Excitatory neuron
+4093,Excitatory neuron
+4094,Excitatory neuron
+4095,Excitatory neuron
+4096,Inhibitory neuron
+4097,Oligodendrocyte
+4098,Inhibitory neuron
+4099,Oligodendrocyte
+4100,Oligodendrocyte
+4101,Excitatory neuron
+4102,Excitatory neuron
+4103,Excitatory neuron
+4104,Excitatory neuron
+4105,Oligodendrocyte
+4106,Oligodendrocyte
+4107,Astrocyte
+4108,Microglial cell
+4109,Excitatory neuron
+4110,Microglial cell
+4111,Inhibitory neuron
+4112,Astrocyte
+4113,Excitatory neuron
+4114,Oligodendrocyte precursor cell
+4115,Excitatory neuron
+4116,Inhibitory neuron
+4117,Excitatory neuron
+4118,Microglial cell
+4119,Oligodendrocyte
+4120,Inhibitory neuron
+4121,Excitatory neuron
+4122,Oligodendrocyte
+4123,Inhibitory neuron
+4124,Oligodendrocyte
+4125,Excitatory neuron
+4126,Excitatory neuron
+4127,Oligodendrocyte
+4128,Excitatory neuron
+4129,Excitatory neuron
+4130,Astrocyte
+4131,Excitatory neuron
+4132,Excitatory neuron
+4133,Excitatory neuron
+4134,Astrocyte
+4135,Inhibitory neuron
+4136,Excitatory neuron
+4137,Oligodendrocyte precursor cell
+4138,Microglial cell
+4139,Oligodendrocyte precursor cell
+4140,Oligodendrocyte
+4141,Inhibitory neuron
+4142,Inhibitory neuron
+4143,Excitatory neuron
+4144,Inhibitory neuron
+4145,Excitatory neuron
+4146,Inhibitory neuron
+4147,Microglial cell
+4148,Astrocyte
+4149,Oligodendrocyte
+4150,Excitatory neuron
+4151,Excitatory neuron
+4152,Excitatory neuron
+4153,Oligodendrocyte
+4154,Oligodendrocyte
+4155,Excitatory neuron
+4156,Excitatory neuron
+4157,Microglial cell
+4158,Excitatory neuron
+4159,Microglial cell
+4160,Inhibitory neuron
+4161,Astrocyte
+4162,Microglial cell
+4163,Oligodendrocyte
+4164,Inhibitory neuron
+4165,Microglial cell
+4166,Oligodendrocyte
+4167,Excitatory neuron
+4168,Excitatory neuron
+4169,Oligodendrocyte
+4170,Inhibitory neuron
+4171,Oligodendrocyte
+4172,Excitatory neuron
+4173,Oligodendrocyte
+4174,Inhibitory neuron
+4175,Astrocyte
+4176,Oligodendrocyte
+4177,Inhibitory neuron
+4178,Oligodendrocyte precursor cell
+4179,Excitatory neuron
+4180,Excitatory neuron
+4181,Excitatory neuron
+4182,Oligodendrocyte
+4183,Oligodendrocyte
+4184,Inhibitory neuron
+4185,Astrocyte
+4186,Oligodendrocyte
+4187,Oligodendrocyte
+4188,Oligodendrocyte
+4189,Excitatory neuron
+4190,Inhibitory neuron
+4191,Oligodendrocyte
+4192,Microglial cell
+4193,Microglial cell
+4194,Endothelial cell
+4195,Microglial cell
+4196,Oligodendrocyte
+4197,Oligodendrocyte
+4198,Excitatory neuron
+4199,Oligodendrocyte
+4200,Oligodendrocyte
+4201,Excitatory neuron
+4202,Oligodendrocyte precursor cell
+4203,Oligodendrocyte
+4204,Excitatory neuron
+4205,Astrocyte
+4206,Excitatory neuron
+4207,Inhibitory neuron
+4208,Inhibitory neuron
+4209,Excitatory neuron
+4210,Oligodendrocyte
+4211,Excitatory neuron
+4212,Excitatory neuron
+4213,Excitatory neuron
+4214,Oligodendrocyte
+4215,Endothelial cell
+4216,Oligodendrocyte
+4217,Astrocyte
+4218,Oligodendrocyte
+4219,Inhibitory neuron
+4220,Oligodendrocyte
+4221,Oligodendrocyte precursor cell
+4222,Oligodendrocyte
+4223,Excitatory neuron
+4224,Excitatory neuron
+4225,Oligodendrocyte
+4226,Astrocyte
+4227,Oligodendrocyte
+4228,Oligodendrocyte precursor cell
+4229,Excitatory neuron
+4230,Oligodendrocyte
+4231,Oligodendrocyte precursor cell
+4232,Excitatory neuron
+4233,Oligodendrocyte precursor cell
+4234,Inhibitory neuron
+4235,Excitatory neuron
+4236,Excitatory neuron
+4237,Microglial cell
+4238,Excitatory neuron
+4239,Inhibitory neuron
+4240,Astrocyte
+4241,Endothelial cell
+4242,Oligodendrocyte
+4243,Oligodendrocyte
+4244,Excitatory neuron
+4245,Microglial cell
+4246,Oligodendrocyte
+4247,Microglial cell
+4248,Oligodendrocyte
+4249,Oligodendrocyte
+4250,Astrocyte
+4251,Excitatory neuron
+4252,Excitatory neuron
+4253,Astrocyte
+4254,Microglial cell
+4255,Astrocyte
+4256,Excitatory neuron
+4257,Oligodendrocyte
+4258,Inhibitory neuron
+4259,Inhibitory neuron
+4260,Excitatory neuron
+4261,Microglial cell
+4262,Inhibitory neuron
+4263,Excitatory neuron
+4264,Excitatory neuron
+4265,Excitatory neuron
+4266,Excitatory neuron
+4267,Excitatory neuron
+4268,Oligodendrocyte
+4269,Oligodendrocyte
+4270,Astrocyte
+4271,Inhibitory neuron
+4272,Excitatory neuron
+4273,Excitatory neuron
+4274,Excitatory neuron
+4275,Oligodendrocyte
+4276,Excitatory neuron
+4277,Inhibitory neuron
+4278,Excitatory neuron
+4279,Inhibitory neuron
+4280,Inhibitory neuron
+4281,Excitatory neuron
+4282,Excitatory neuron
+4283,Astrocyte
+4284,Oligodendrocyte
+4285,Excitatory neuron
+4286,Excitatory neuron
+4287,Excitatory neuron
+4288,Excitatory neuron
+4289,Microglial cell
+4290,Oligodendrocyte
+4291,Oligodendrocyte
+4292,Excitatory neuron
+4293,Oligodendrocyte
+4294,Excitatory neuron
+4295,Oligodendrocyte precursor cell
+4296,Excitatory neuron
+4297,Astrocyte
+4298,Excitatory neuron
+4299,Excitatory neuron
+4300,Oligodendrocyte
+4301,Inhibitory neuron
+4302,Excitatory neuron
+4303,Oligodendrocyte
+4304,Oligodendrocyte
+4305,Endothelial cell
+4306,Oligodendrocyte
+4307,Excitatory neuron
+4308,Inhibitory neuron
+4309,Inhibitory neuron
+4310,Excitatory neuron
+4311,Oligodendrocyte
+4312,Oligodendrocyte
+4313,Excitatory neuron
+4314,Excitatory neuron
+4315,Excitatory neuron
+4316,Inhibitory neuron
+4317,Excitatory neuron
+4318,Oligodendrocyte
+4319,Astrocyte
+4320,Excitatory neuron
+4321,Oligodendrocyte
+4322,Oligodendrocyte precursor cell
+4323,Oligodendrocyte
+4324,Oligodendrocyte
+4325,Inhibitory neuron
+4326,Excitatory neuron
+4327,Microglial cell
+4328,Microglial cell
+4329,Excitatory neuron
+4330,Oligodendrocyte
+4331,Astrocyte
+4332,Excitatory neuron
+4333,Excitatory neuron
+4334,Inhibitory neuron
+4335,Astrocyte
+4336,Oligodendrocyte
+4337,Excitatory neuron
+4338,Excitatory neuron
+4339,Oligodendrocyte
+4340,Inhibitory neuron
+4341,Oligodendrocyte
+4342,Inhibitory neuron
+4343,Inhibitory neuron
+4344,Oligodendrocyte
+4345,Astrocyte
+4346,Inhibitory neuron
+4347,Astrocyte
+4348,Oligodendrocyte precursor cell
+4349,Astrocyte
+4350,Oligodendrocyte precursor cell
+4351,Oligodendrocyte precursor cell
+4352,Oligodendrocyte
+4353,Oligodendrocyte
+4354,Oligodendrocyte precursor cell
+4355,Oligodendrocyte
+4356,Oligodendrocyte
+4357,Excitatory neuron
+4358,Oligodendrocyte
+4359,Inhibitory neuron
+4360,Excitatory neuron
+4361,Excitatory neuron
+4362,Excitatory neuron
+4363,Excitatory neuron
+4364,Astrocyte
+4365,Excitatory neuron
+4366,Excitatory neuron
+4367,Excitatory neuron
+4368,Astrocyte
+4369,Astrocyte
+4370,Oligodendrocyte
+4371,Inhibitory neuron
+4372,Oligodendrocyte precursor cell
+4373,Excitatory neuron
+4374,Excitatory neuron
+4375,Oligodendrocyte
+4376,Inhibitory neuron
+4377,Astrocyte
+4378,Excitatory neuron
+4379,Astrocyte
+4380,Inhibitory neuron
+4381,Inhibitory neuron
+4382,Excitatory neuron
+4383,Oligodendrocyte
+4384,Excitatory neuron
+4385,Oligodendrocyte
+4386,Oligodendrocyte
+4387,Excitatory neuron
+4388,Oligodendrocyte
+4389,Excitatory neuron
+4390,Excitatory neuron
+4391,Inhibitory neuron
+4392,Inhibitory neuron
+4393,Oligodendrocyte precursor cell
+4394,Excitatory neuron
+4395,Excitatory neuron
+4396,Astrocyte
+4397,Oligodendrocyte precursor cell
+4398,Astrocyte
+4399,Microglial cell
+4400,Inhibitory neuron
+4401,Excitatory neuron
+4402,Oligodendrocyte
+4403,Excitatory neuron
+4404,Excitatory neuron
+4405,Excitatory neuron
+4406,Inhibitory neuron
+4407,Excitatory neuron
+4408,Excitatory neuron
+4409,Inhibitory neuron
+4410,Excitatory neuron
+4411,Excitatory neuron
+4412,Inhibitory neuron
+4413,Excitatory neuron
+4414,Excitatory neuron
+4415,Excitatory neuron
+4416,Inhibitory neuron
+4417,Astrocyte
+4418,Excitatory neuron
+4419,Microglial cell
+4420,Excitatory neuron
+4421,Oligodendrocyte
+4422,Excitatory neuron
+4423,Excitatory neuron
+4424,Inhibitory neuron
+4425,Oligodendrocyte precursor cell
+4426,Microglial cell
+4427,Excitatory neuron
+4428,Excitatory neuron
+4429,Excitatory neuron
+4430,Oligodendrocyte
+4431,Excitatory neuron
+4432,Excitatory neuron
+4433,Oligodendrocyte
+4434,Inhibitory neuron
+4435,Excitatory neuron
+4436,Excitatory neuron
+4437,Excitatory neuron
+4438,Oligodendrocyte
+4439,Inhibitory neuron
+4440,Oligodendrocyte
+4441,Excitatory neuron
+4442,Excitatory neuron
+4443,Inhibitory neuron
+4444,Inhibitory neuron
+4445,Inhibitory neuron
+4446,Oligodendrocyte precursor cell
+4447,Inhibitory neuron
+4448,Oligodendrocyte
+4449,Excitatory neuron
+4450,Oligodendrocyte
+4451,Oligodendrocyte
+4452,Astrocyte
+4453,Astrocyte
+4454,Excitatory neuron
+4455,Oligodendrocyte
+4456,Oligodendrocyte
+4457,Astrocyte
+4458,Oligodendrocyte
+4459,Microglial cell
+4460,Excitatory neuron
+4461,Inhibitory neuron
+4462,Excitatory neuron
+4463,Excitatory neuron
+4464,Excitatory neuron
+4465,Inhibitory neuron
+4466,Excitatory neuron
+4467,Excitatory neuron
+4468,Excitatory neuron
+4469,Oligodendrocyte
+4470,Oligodendrocyte
+4471,Oligodendrocyte
+4472,Oligodendrocyte
+4473,Excitatory neuron
+4474,Oligodendrocyte
+4475,Excitatory neuron
+4476,Oligodendrocyte
+4477,Oligodendrocyte
+4478,Oligodendrocyte
+4479,Excitatory neuron
+4480,Excitatory neuron
+4481,Microglial cell
+4482,Astrocyte
+4483,Excitatory neuron
+4484,Oligodendrocyte
+4485,Oligodendrocyte
+4486,Excitatory neuron
+4487,Inhibitory neuron
+4488,Oligodendrocyte
+4489,Oligodendrocyte
+4490,Excitatory neuron
+4491,Oligodendrocyte precursor cell
+4492,Excitatory neuron
+4493,Inhibitory neuron
+4494,Excitatory neuron
+4495,Inhibitory neuron
+4496,Inhibitory neuron
+4497,Oligodendrocyte
+4498,Astrocyte
+4499,Astrocyte
+4500,Inhibitory neuron
+4501,Astrocyte
+4502,Excitatory neuron
+4503,Excitatory neuron
+4504,Microglial cell
+4505,Oligodendrocyte
+4506,Inhibitory neuron
+4507,Excitatory neuron
+4508,Microglial cell
+4509,Inhibitory neuron
+4510,Inhibitory neuron
+4511,Oligodendrocyte
+4512,Oligodendrocyte
+4513,Inhibitory neuron
+4514,Inhibitory neuron
+4515,Excitatory neuron
+4516,Oligodendrocyte
+4517,Oligodendrocyte
+4518,Oligodendrocyte precursor cell
+4519,Astrocyte
+4520,Excitatory neuron
+4521,Excitatory neuron
+4522,Oligodendrocyte
+4523,Excitatory neuron
+4524,Excitatory neuron
+4525,Excitatory neuron
+4526,Astrocyte
+4527,Oligodendrocyte precursor cell
+4528,Inhibitory neuron
+4529,Astrocyte
+4530,Astrocyte
+4531,Oligodendrocyte precursor cell
+4532,Inhibitory neuron
+4533,Excitatory neuron
+4534,Oligodendrocyte
+4535,Oligodendrocyte
+4536,Astrocyte
+4537,Excitatory neuron
+4538,Excitatory neuron
+4539,Inhibitory neuron
+4540,Excitatory neuron
+4541,Oligodendrocyte
+4542,Oligodendrocyte
+4543,Oligodendrocyte
+4544,Excitatory neuron
+4545,Astrocyte
+4546,Inhibitory neuron
+4547,Oligodendrocyte
+4548,Oligodendrocyte precursor cell
+4549,Oligodendrocyte
+4550,Oligodendrocyte
+4551,Excitatory neuron
+4552,Excitatory neuron
+4553,Astrocyte
+4554,Excitatory neuron
+4555,Inhibitory neuron
+4556,Oligodendrocyte
+4557,Inhibitory neuron
+4558,Oligodendrocyte
+4559,Oligodendrocyte
+4560,Excitatory neuron
+4561,Excitatory neuron
+4562,Excitatory neuron
+4563,Excitatory neuron
+4564,Excitatory neuron
+4565,Oligodendrocyte precursor cell
+4566,Oligodendrocyte
+4567,Excitatory neuron
+4568,Excitatory neuron
+4569,Excitatory neuron
+4570,Excitatory neuron
+4571,Oligodendrocyte
+4572,Microglial cell
+4573,Astrocyte
+4574,Astrocyte
+4575,Oligodendrocyte
+4576,Inhibitory neuron
+4577,Inhibitory neuron
+4578,Astrocyte
+4579,Inhibitory neuron
+4580,Excitatory neuron
+4581,Excitatory neuron
+4582,Microglial cell
+4583,Excitatory neuron
+4584,Inhibitory neuron
+4585,Astrocyte
+4586,Endothelial cell
+4587,Oligodendrocyte
+4588,Excitatory neuron
+4589,Oligodendrocyte
+4590,Inhibitory neuron
+4591,Microglial cell
+4592,Oligodendrocyte precursor cell
+4593,Oligodendrocyte precursor cell
+4594,Excitatory neuron
+4595,Inhibitory neuron
+4596,Oligodendrocyte
+4597,Inhibitory neuron
+4598,Oligodendrocyte precursor cell
+4599,Excitatory neuron
+4600,Excitatory neuron
+4601,Microglial cell
+4602,Astrocyte
+4603,Astrocyte
+4604,Oligodendrocyte precursor cell
+4605,Astrocyte
+4606,Excitatory neuron
+4607,Oligodendrocyte
+4608,Excitatory neuron
+4609,Oligodendrocyte
+4610,Astrocyte
+4611,Excitatory neuron
+4612,Excitatory neuron
+4613,Excitatory neuron
+4614,Inhibitory neuron
+4615,Astrocyte
+4616,Excitatory neuron
+4617,Microglial cell
+4618,Inhibitory neuron
+4619,Astrocyte
+4620,Excitatory neuron
+4621,Inhibitory neuron
+4622,Excitatory neuron
+4623,Endothelial cell
+4624,Oligodendrocyte precursor cell
+4625,Excitatory neuron
+4626,Oligodendrocyte
+4627,Oligodendrocyte
+4628,Oligodendrocyte
+4629,Microglial cell
+4630,Oligodendrocyte
+4631,Excitatory neuron
+4632,Oligodendrocyte precursor cell
+4633,Excitatory neuron
+4634,Excitatory neuron
+4635,Oligodendrocyte
+4636,Oligodendrocyte
+4637,Excitatory neuron
+4638,Microglial cell
+4639,Oligodendrocyte
+4640,Oligodendrocyte
+4641,Oligodendrocyte
+4642,Oligodendrocyte
+4643,Excitatory neuron
+4644,Astrocyte
+4645,Oligodendrocyte
+4646,Oligodendrocyte
+4647,Oligodendrocyte precursor cell
+4648,Inhibitory neuron
+4649,Excitatory neuron
+4650,Excitatory neuron
+4651,Oligodendrocyte
+4652,Astrocyte
+4653,Oligodendrocyte
+4654,Astrocyte
+4655,Oligodendrocyte precursor cell
+4656,Microglial cell
+4657,Oligodendrocyte
+4658,Excitatory neuron
+4659,Excitatory neuron
+4660,Excitatory neuron
+4661,Inhibitory neuron
+4662,Excitatory neuron
+4663,Excitatory neuron
+4664,Excitatory neuron
+4665,Astrocyte
+4666,Oligodendrocyte
+4667,Excitatory neuron
+4668,Excitatory neuron
+4669,Oligodendrocyte precursor cell
+4670,Oligodendrocyte
+4671,Microglial cell
+4672,Excitatory neuron
+4673,Excitatory neuron
+4674,Microglial cell
+4675,Astrocyte
+4676,Excitatory neuron
+4677,Astrocyte
+4678,Oligodendrocyte precursor cell
+4679,Excitatory neuron
+4680,Excitatory neuron
+4681,Inhibitory neuron
+4682,Inhibitory neuron
+4683,Inhibitory neuron
+4684,Excitatory neuron
+4685,Oligodendrocyte
+4686,Excitatory neuron
+4687,Inhibitory neuron
+4688,Microglial cell
+4689,Endothelial cell
+4690,Oligodendrocyte
+4691,Inhibitory neuron
+4692,Excitatory neuron
+4693,Inhibitory neuron
+4694,Excitatory neuron
+4695,Inhibitory neuron
+4696,Excitatory neuron
+4697,Inhibitory neuron
+4698,Astrocyte
+4699,Oligodendrocyte
+4700,Oligodendrocyte
+4701,Excitatory neuron
+4702,Excitatory neuron
+4703,Oligodendrocyte
+4704,Oligodendrocyte
+4705,Oligodendrocyte
+4706,Excitatory neuron
+4707,Excitatory neuron
+4708,Excitatory neuron
+4709,Oligodendrocyte precursor cell
+4710,Inhibitory neuron
+4711,Oligodendrocyte
+4712,Excitatory neuron
+4713,Excitatory neuron
+4714,Excitatory neuron
+4715,Excitatory neuron
+4716,Astrocyte
+4717,Inhibitory neuron
+4718,Oligodendrocyte precursor cell
+4719,Oligodendrocyte
+4720,Excitatory neuron
+4721,Microglial cell
+4722,Excitatory neuron
+4723,Microglial cell
+4724,Astrocyte
+4725,Excitatory neuron
+4726,Excitatory neuron
+4727,Oligodendrocyte
+4728,Excitatory neuron
+4729,Excitatory neuron
+4730,Excitatory neuron
+4731,Astrocyte
+4732,Oligodendrocyte precursor cell
+4733,Excitatory neuron
+4734,Excitatory neuron
+4735,Inhibitory neuron
+4736,Excitatory neuron
+4737,Oligodendrocyte precursor cell
+4738,Inhibitory neuron
+4739,Astrocyte
+4740,Oligodendrocyte
+4741,Excitatory neuron
+4742,Oligodendrocyte precursor cell
+4743,Oligodendrocyte
+4744,Excitatory neuron
+4745,Endothelial cell
+4746,Oligodendrocyte
+4747,Excitatory neuron
+4748,Oligodendrocyte
+4749,Excitatory neuron
+4750,Astrocyte
+4751,Excitatory neuron
+4752,Oligodendrocyte
+4753,Excitatory neuron
+4754,Excitatory neuron
+4755,Excitatory neuron
+4756,Oligodendrocyte precursor cell
+4757,Endothelial cell
+4758,Excitatory neuron
+4759,Oligodendrocyte precursor cell
+4760,Inhibitory neuron
+4761,Oligodendrocyte
+4762,Oligodendrocyte precursor cell
+4763,Astrocyte
+4764,Excitatory neuron
+4765,Oligodendrocyte
+4766,Excitatory neuron
+4767,Excitatory neuron
+4768,Microglial cell
+4769,Excitatory neuron
+4770,Oligodendrocyte
+4771,Endothelial cell
+4772,Astrocyte
+4773,Excitatory neuron
+4774,Oligodendrocyte precursor cell
+4775,Inhibitory neuron
+4776,Inhibitory neuron
+4777,Excitatory neuron
+4778,Oligodendrocyte
+4779,Oligodendrocyte
+4780,Excitatory neuron
+4781,Oligodendrocyte precursor cell
+4782,Inhibitory neuron
+4783,Oligodendrocyte
+4784,Oligodendrocyte
+4785,Excitatory neuron
+4786,Oligodendrocyte
+4787,Inhibitory neuron
+4788,Microglial cell
+4789,Excitatory neuron
+4790,Oligodendrocyte
+4791,Excitatory neuron
+4792,Oligodendrocyte
+4793,Excitatory neuron
+4794,Inhibitory neuron
+4795,Astrocyte
+4796,Oligodendrocyte precursor cell
+4797,Oligodendrocyte
+4798,Excitatory neuron
+4799,Excitatory neuron
+4800,Astrocyte
+4801,Oligodendrocyte
+4802,Oligodendrocyte precursor cell
+4803,Excitatory neuron
+4804,Excitatory neuron
+4805,Inhibitory neuron
+4806,Oligodendrocyte
+4807,Inhibitory neuron
+4808,Excitatory neuron
+4809,Inhibitory neuron
+4810,Excitatory neuron
+4811,Oligodendrocyte
+4812,Inhibitory neuron
+4813,Excitatory neuron
+4814,Excitatory neuron
+4815,Inhibitory neuron
+4816,Excitatory neuron
+4817,Oligodendrocyte precursor cell
+4818,Excitatory neuron
+4819,Oligodendrocyte
+4820,Oligodendrocyte
+4821,Oligodendrocyte precursor cell
+4822,Oligodendrocyte
+4823,Oligodendrocyte
+4824,Oligodendrocyte precursor cell
+4825,Oligodendrocyte precursor cell
+4826,Astrocyte
+4827,Excitatory neuron
+4828,Excitatory neuron
+4829,Excitatory neuron
+4830,Endothelial cell
+4831,Excitatory neuron
+4832,Excitatory neuron
+4833,Astrocyte
+4834,Astrocyte
+4835,Excitatory neuron
+4836,Excitatory neuron
+4837,Astrocyte
+4838,Inhibitory neuron
+4839,Oligodendrocyte
+4840,Inhibitory neuron
+4841,Inhibitory neuron
+4842,Excitatory neuron
+4843,Excitatory neuron
+4844,Endothelial cell
+4845,Excitatory neuron
+4846,Excitatory neuron
+4847,Inhibitory neuron
+4848,Inhibitory neuron
+4849,Inhibitory neuron
+4850,Oligodendrocyte
+4851,Excitatory neuron
+4852,Excitatory neuron
+4853,Excitatory neuron
+4854,Microglial cell
+4855,Endothelial cell
+4856,Oligodendrocyte precursor cell
+4857,Oligodendrocyte
+4858,Excitatory neuron
+4859,Oligodendrocyte
+4860,Excitatory neuron
+4861,Oligodendrocyte precursor cell
+4862,Oligodendrocyte
+4863,Excitatory neuron
+4864,Oligodendrocyte
+4865,Astrocyte
+4866,Excitatory neuron
+4867,Excitatory neuron
+4868,Inhibitory neuron
+4869,Oligodendrocyte
+4870,Excitatory neuron
+4871,Oligodendrocyte precursor cell
+4872,Oligodendrocyte precursor cell
+4873,Oligodendrocyte
+4874,Oligodendrocyte
+4875,Astrocyte
+4876,Excitatory neuron
+4877,Oligodendrocyte
+4878,Excitatory neuron
+4879,Endothelial cell
+4880,Excitatory neuron
+4881,Oligodendrocyte
+4882,Oligodendrocyte
+4883,Microglial cell
+4884,Astrocyte
+4885,Oligodendrocyte
+4886,Oligodendrocyte
+4887,Oligodendrocyte precursor cell
+4888,Excitatory neuron
+4889,Excitatory neuron
+4890,Microglial cell
+4891,Oligodendrocyte
+4892,Excitatory neuron
+4893,Excitatory neuron
+4894,Excitatory neuron
+4895,Excitatory neuron
+4896,Astrocyte
+4897,Excitatory neuron
+4898,Oligodendrocyte
+4899,Oligodendrocyte
+4900,Inhibitory neuron
+4901,Inhibitory neuron
+4902,Oligodendrocyte
+4903,Excitatory neuron
+4904,Astrocyte
+4905,Oligodendrocyte
+4906,Oligodendrocyte
+4907,Excitatory neuron
+4908,Oligodendrocyte precursor cell
+4909,Astrocyte
+4910,Inhibitory neuron
+4911,Oligodendrocyte
+4912,Astrocyte
+4913,Excitatory neuron
+4914,Oligodendrocyte
+4915,Excitatory neuron
+4916,Excitatory neuron
+4917,Inhibitory neuron
+4918,Oligodendrocyte precursor cell
+4919,Astrocyte
+4920,Astrocyte
+4921,Inhibitory neuron
+4922,Excitatory neuron
+4923,Astrocyte
+4924,Oligodendrocyte
+4925,Oligodendrocyte precursor cell
+4926,Oligodendrocyte
+4927,Excitatory neuron
+4928,Oligodendrocyte
+4929,Oligodendrocyte
+4930,Excitatory neuron
+4931,Oligodendrocyte
+4932,Oligodendrocyte
+4933,Oligodendrocyte
+4934,Excitatory neuron
+4935,Astrocyte
+4936,Oligodendrocyte
+4937,Excitatory neuron
+4938,Oligodendrocyte
+4939,Oligodendrocyte
+4940,Oligodendrocyte precursor cell
+4941,Oligodendrocyte
+4942,Oligodendrocyte
+4943,Excitatory neuron
+4944,Astrocyte
+4945,Excitatory neuron
+4946,Excitatory neuron
+4947,Astrocyte
+4948,Astrocyte
+4949,Oligodendrocyte
+4950,Inhibitory neuron
+4951,Oligodendrocyte
+4952,Excitatory neuron
+4953,Oligodendrocyte
+4954,Oligodendrocyte
+4955,Excitatory neuron
+4956,Excitatory neuron
+4957,Excitatory neuron
+4958,Excitatory neuron
+4959,Excitatory neuron
+4960,Inhibitory neuron
+4961,Inhibitory neuron
+4962,Excitatory neuron
+4963,Excitatory neuron
+4964,Oligodendrocyte
+4965,Oligodendrocyte
+4966,Microglial cell
+4967,Oligodendrocyte precursor cell
+4968,Excitatory neuron
+4969,Oligodendrocyte
+4970,Excitatory neuron
+4971,Oligodendrocyte
+4972,Excitatory neuron
+4973,Excitatory neuron
+4974,Excitatory neuron
+4975,Excitatory neuron
+4976,Astrocyte
+4977,Astrocyte
+4978,Microglial cell
+4979,Excitatory neuron
+4980,Inhibitory neuron
+4981,Excitatory neuron
+4982,Astrocyte
+4983,Oligodendrocyte precursor cell
+4984,Excitatory neuron
+4985,Excitatory neuron
+4986,Oligodendrocyte precursor cell
+4987,Astrocyte
+4988,Oligodendrocyte
+4989,Oligodendrocyte
+4990,Excitatory neuron
+4991,Excitatory neuron
+4992,Astrocyte
+4993,Oligodendrocyte
+4994,Excitatory neuron
+4995,Oligodendrocyte
+4996,Inhibitory neuron
+4997,Astrocyte
+4998,Oligodendrocyte
+4999,Astrocyte
