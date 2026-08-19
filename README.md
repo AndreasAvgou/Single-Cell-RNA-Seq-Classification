@@ -8,6 +8,7 @@
 </div>
 
 This project implements a specialized neural network architecture designed to classify brain cell lineages (such as Astrocytes, Neurons, Microglia, etc.) from high-dimensional single-cell RNA-sequencing (scRNA-seq) data.
+
 ## Architecture Overview
 
 The core architecture (defined in `model_arch.py`) is a **Joint Autoencoder & Classifier**. It operates on ~16,678-dimensional gene expression profiles.
