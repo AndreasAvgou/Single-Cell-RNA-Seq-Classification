@@ -7,7 +7,7 @@
   
 </div>
 
-This project implements a specialized neural network architecture designed to classify brain cell lineages (such as Astrocytes, Neurons, Microglia, etc.) from high-dimensional single-cell RNA-sequencing (scRNA-seq) data.
+This project implements a specialized neural network architecture designed to classify brain cell lineages from high-dimensional single-cell RNA-sequencing (scRNA-seq) data.
 
 ## Architecture Overview
 
